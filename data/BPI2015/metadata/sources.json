@@ -1,0 +1,62 @@
+[
+  {
+    "key": "bpi2015_municipality_1",
+    "files": [
+      {
+        "name": "BPIC15_1.xes",
+        "size": 41227060,
+        "md5": "6c8a04d566eef571cf0aaf7b6f70310b",
+        "url": "https://data.4tu.nl/file/6f35269e-4ce7-4bc4-9abb-b3cea04cad00/2c8d5827-3e08-471d-98e2-6ffdec92f958"
+      }
+    ],
+    "citation": "van Dongen, Boudewijn (2015): BPI Challenge 2015 Municipality 1. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:a0addfda-2044-4541-a450-fdcc9fe16d17"
+  },
+  {
+    "key": "bpi2015_municipality_2",
+    "files": [
+      {
+        "name": "BPIC15_2.xes",
+        "size": 34423078,
+        "md5": "f271dc579cee2c067bf2d8d2b8b45162",
+        "url": "https://data.4tu.nl/file/372d0cad-3fb1-4627-8ea9-51a09923d331/d653a8ec-4cd1-4029-8b61-6cfde4f4a666"
+      }
+    ],
+    "citation": "van Dongen, Boudewijn (2015): BPI Challenge 2015 Municipality 2. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:63a8435a-077d-4ece-97cd-2c76d394d99c"
+  },
+  {
+    "key": "bpi2015_municipality_3",
+    "files": [
+      {
+        "name": "BPIC15_3.xes",
+        "size": 46768886,
+        "md5": "7fee0bd0bfb8169cb2f91f2c77d2598e",
+        "url": "https://data.4tu.nl/file/d6741425-5f62-4a59-92c5-08bae64b4611/21b574ab-02ba-4dfb-badc-bb46ce0edc44"
+      }
+    ],
+    "citation": "van Dongen, Boudewijn (2015): BPI Challenge 2015 Municipality 3. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:ed445cdd-27d5-4d77-a1f7-59fe7360cfbe"
+  },
+  {
+    "key": "bpi2015_municipality_4",
+    "files": [
+      {
+        "name": "BPIC15_4.xes",
+        "size": 36998010,
+        "md5": "fac8a0d1d7ee074c2780bc75b9154c6a",
+        "url": "https://data.4tu.nl/file/34216d8a-f054-46d4-bf03-d9352f90967e/68923819-b085-43be-abe2-e084a0f1381f"
+      }
+    ],
+    "citation": "van Dongen, Boudewijn (2015): BPI Challenge 2015 Municipality 4. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:679b11cf-47cd-459e-a6de-9ca614e25985"
+  },
+  {
+    "key": "bpi2015_municipality_5",
+    "files": [
+      {
+        "name": "BPIC15_5.xes",
+        "size": 46039768,
+        "md5": "25fbd274fa1cd1c447bab98e22816359",
+        "url": "https://data.4tu.nl/file/32b70553-0765-4808-b155-aa5319802c8a/d39e1365-e4b8-4cb8-83d3-0b01cbf6f8c2"
+      }
+    ],
+    "citation": "van Dongen, Boudewijn (2015): BPI Challenge 2015 Municipality 5. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:b32c6fe5-f212-4286-9774-58dd53511cf8"
+  }
+]

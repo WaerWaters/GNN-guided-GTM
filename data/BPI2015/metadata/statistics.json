@@ -1,0 +1,152 @@
+[
+  {
+    "dataset": "bpi2015_municipality_1",
+    "source": "BPI2015/raw/kommune_1/BPIC15_1.xes",
+    "cases": 1199,
+    "events": 52217,
+    "activities": 398,
+    "min_trace_length": 2,
+    "max_trace_length": 101,
+    "missing_timestamp_events": 0,
+    "splits": {
+      "training": {
+        "cases": 839,
+        "events": 36543,
+        "sample_cases": 839,
+        "sample_events": 36543
+      },
+      "validation": {
+        "cases": 179,
+        "events": 7975,
+        "sample_cases": 179,
+        "sample_events": 7975
+      },
+      "test": {
+        "cases": 181,
+        "events": 7699,
+        "sample_cases": 181,
+        "sample_events": 7699
+      }
+    }
+  },
+  {
+    "dataset": "bpi2015_municipality_2",
+    "source": "BPI2015/raw/kommune_2/BPIC15_2.xes",
+    "cases": 832,
+    "events": 44354,
+    "activities": 410,
+    "min_trace_length": 1,
+    "max_trace_length": 132,
+    "missing_timestamp_events": 0,
+    "splits": {
+      "training": {
+        "cases": 582,
+        "events": 30788,
+        "sample_cases": 582,
+        "sample_events": 30788
+      },
+      "validation": {
+        "cases": 124,
+        "events": 6567,
+        "sample_cases": 124,
+        "sample_events": 6567
+      },
+      "test": {
+        "cases": 126,
+        "events": 6999,
+        "sample_cases": 126,
+        "sample_events": 6999
+      }
+    }
+  },
+  {
+    "dataset": "bpi2015_municipality_3",
+    "source": "BPI2015/raw/kommune_3/BPIC15_3.xes",
+    "cases": 1409,
+    "events": 59681,
+    "activities": 383,
+    "min_trace_length": 3,
+    "max_trace_length": 124,
+    "missing_timestamp_events": 0,
+    "splits": {
+      "training": {
+        "cases": 986,
+        "events": 41993,
+        "sample_cases": 986,
+        "sample_events": 41993
+      },
+      "validation": {
+        "cases": 211,
+        "events": 8969,
+        "sample_cases": 211,
+        "sample_events": 8969
+      },
+      "test": {
+        "cases": 212,
+        "events": 8719,
+        "sample_cases": 212,
+        "sample_events": 8719
+      }
+    }
+  },
+  {
+    "dataset": "bpi2015_municipality_4",
+    "source": "BPI2015/raw/kommune_4/BPIC15_4.xes",
+    "cases": 1053,
+    "events": 47293,
+    "activities": 356,
+    "min_trace_length": 1,
+    "max_trace_length": 116,
+    "missing_timestamp_events": 0,
+    "splits": {
+      "training": {
+        "cases": 737,
+        "events": 32969,
+        "sample_cases": 737,
+        "sample_events": 32969
+      },
+      "validation": {
+        "cases": 157,
+        "events": 7029,
+        "sample_cases": 157,
+        "sample_events": 7029
+      },
+      "test": {
+        "cases": 159,
+        "events": 7295,
+        "sample_cases": 159,
+        "sample_events": 7295
+      }
+    }
+  },
+  {
+    "dataset": "bpi2015_municipality_5",
+    "source": "BPI2015/raw/kommune_5/BPIC15_5.xes",
+    "cases": 1156,
+    "events": 59083,
+    "activities": 389,
+    "min_trace_length": 5,
+    "max_trace_length": 154,
+    "missing_timestamp_events": 0,
+    "splits": {
+      "training": {
+        "cases": 809,
+        "events": 40998,
+        "sample_cases": 809,
+        "sample_events": 40998
+      },
+      "validation": {
+        "cases": 173,
+        "events": 9193,
+        "sample_cases": 173,
+        "sample_events": 9193
+      },
+      "test": {
+        "cases": 174,
+        "events": 8892,
+        "sample_cases": 174,
+        "sample_events": 8892
+      }
+    }
+  }
+]

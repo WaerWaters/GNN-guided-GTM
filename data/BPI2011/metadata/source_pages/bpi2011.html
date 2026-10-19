@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="4TU.ResearchData is an international data repository for science, engineering and design. We offer research dataset curation, sharing, long-term access and preservation services to anyone, anywhere. Our training and community engagement resources are available to research and research-support professionals working to make their research data findable, accessible, interoperable and reproducible (FAIR).">
+    <meta name="keywords" content="4tu, 4TU.ResearchData, data repository">
+    <meta name="author" content="4TU.ResearchData">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; script-src 'self' 'nonce-035d75b1ebc8459dadc73b21a87abe3b'; style-src 'self' 'nonce-035d75b1ebc8459dadc73b21a87abe3b'; frame-src https://www.youtube.com">
+    <title>Real-life event logs - Hospital log (dataset)</title>
+    <link rel='shortcut icon' type='image/x-icon' href='/static/images/favicon.ico'>
+    <link rel="stylesheet" type="text/css" href="/theme/colors.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/static/css/main.css?cache=1791500000">
+    <link rel="stylesheet" type="text/css" href="/theme/fonts.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/footer.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/header.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/typography.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/palette.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/spacing.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/buttons.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/action-bar.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/shapes.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/chips.css?cache=1791964423">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "Real-life event logs - Hospital log",
+        "identifier": "https://doi.org/10.4121/uuid:d9769f3d-0ab0-4fb8-803b-0d1120ffcf54",
+        "citation": "van Dongen, Boudewijn (2011): Real-life event logs - Hospital log. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:d9769f3d-0ab0-4fb8-803b-0d1120ffcf54",
+        "version": 1,
+        "description": "Real life log of a Dutch academic hospital, originally intended for use in the first Business Process Intelligence Contest (BPIC 2011)",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Eindhoven University of Technology"
+        },
+        "license": "https://doi.org/10.4121/resource:terms_of_use",
+        "keywords": ["000 Computer science, knowledge \u0026 systems", "IEEE Task Force on Process Mining", "real life event logs"],
+        "creator": [
+        {
+            "@type": "Person",
+            "name": "Boudewijn van Dongen",
+            "sameAs": "https://orcid.org/0000-0002-3978-6464"
+          }
+        ]
+            ,"temporalCoverage": "2005-01-03T00:00:00+01:00 to 2008-03-20T00:00:00+01:00"
+            ,"isAccessibleForFree" : true,
+            "distribution": {
+                "@type": "DataDownload",
+                "contentUrl": "https://data.4tu.nl/ndownloader/items/5ea5bb88-feaa-4e6f-a743-6460a755e05b/versions/1",
+                "encodingFormat": "application/zip"
+            }
+    }
+    </script>
+<script src="/static/js/jquery-3.6.0.min.js"></script>
+<script src="/static/js/landing_page.js?cache=1790942921"></script>
+<script src="/static/js/quill.min.js"></script>
+<script src="/static/js/utils.js?cache=1744290797"></script>
+<link rel="stylesheet" type="text/css" href="/static/css/pub.css?cache=1742203405" />
+<link href="/static/css/quill.4tu.css" rel="stylesheet">
+<link href="/static/css/form.css?cache=1739977731" rel="stylesheet">
+<style nonce="035d75b1ebc8459dadc73b21a87abe3b">
+#access-request-wrapper { display: none; }
+#content-wrapper {padding: 0}
+</style>
+<script nonce="035d75b1ebc8459dadc73b21a87abe3b">
+const dataset_uuid = "5ea5bb88-feaa-4e6f-a743-6460a755e05b";
+</script>
+  </head>
+  <body>
+    <div id="wrapper" class="footer2">
+      <div id="header" class="corporate-identity-header">
+        <div id="header-left"><a href="/"><img id="corporate-identity-logo" src="/static/images/logo.png" alt="4TU.ResearchData logo"></a></div>
+        <div id="header-middle">
+          <div id="search-box-wrapper">
+            <form method="get" action="/search?search=">
+              <input id="search-box" aria-label="Search" title="Search" name="search" type="text" placeholder="Search..." maxlength="255" value=""><!--
+              --><input type="submit" class="search-submit-btn fa-search" value="&#xf002;">
+            </form>
+          </div>
+        </div>
+        <div id="header-right">
+          <a href="/login"><div class="button" id="login-button">Log in</div></a>
+        </div>
+      </div>
+      <nav id="site-navigation">
+        <div id="primary-menu-wrapper">
+        <ul id="primary-menu" class="primary-menu">
+          
+          <li class="menu-item menu-item-has-children">About your Data
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/getting-started">Getting started</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/en/about-your-data/manage-share">Manage &amp; Share</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/publish-cite">Publish &amp; Cite</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/find-reuse">Find &amp; Re-use</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/scientific-visualisation">Scientific Visualisation</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/netcdf-and-opendap">NetCDF &amp; OPeNDAP</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/codecheck">CODECHECK</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/iiif">Image interoperability with IIIF</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/ro-crate">RO-CRATE</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/igsn">IGSN</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">4TU.ResearchData
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/our-organisation/">Organisation</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-4turesearchdata/policies-guidelines">Policies &amp; Guidelines</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/contact/">Team &amp; Contact</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/frequently-asked-questions/">Frequently Asked Questions</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/wp-content/uploads/2025/04/4TU.ResearchData_Strategy_2025.pdf">Strategy 2025 – 2029</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/branding/">Branding</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Our Community
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/join-our-community/">Join our community</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/members/">Community members</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/groups/">Community groups</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/the-fair-data-fund/">FAIR Data Fund</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Training
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/training/">Training</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/introduction-to-version-control-with-git/">Introduction to Version Control with Git</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/introduction-to-programming-in-research-with-python/">Introduction to programming in research with Python</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/efficient-research-workflows-with-the-unix-shell/">Efficient Research Workflows with the UNIX Shell</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/training-resources-materials//">Materials</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Collaborations
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/collaborations/">Collaborations</a></li>
+              
+              
+              
+              <li class="submenu-item submenu-item-has-children"><a href="https://community.data.4tu.nl/digital-capacity-for-nes/">Digital Capacity for NES</a>
+                <ul class="sub-submenu">
+                  
+                  <li class="sub-submenu-item"><a href="https://community.data.4tu.nl/call-1-institutional-nomination-for-carpentries-training-seats/">Call 1: Instructors</a></li>
+                  
+                  <li class="sub-submenu-item"><a href="https://community.data.4tu.nl/call-for-collaborative-lesson-development-training/">Call for Lesson Dev</a></li>
+                  
+                  <li class="sub-submenu-item"><a href="https://community.data.4tu.nl/open-call-individual-applications-for-carpentries-instructor-training-seats/">Open Call: Instructor Training</a></li>
+                  
+                </ul>
+              </li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">News
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl">Latest news</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/category/use-cases/">Use cases</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/subscribe-to-newsletter/">Subscribe to newsletter</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Log in &amp; Upload Data
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="/info/log-in-upload-data/about-log-in">About Log in / Sign up</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://data.4tu.nl/account/home">Log in (Data Repository)</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/wp-login.php">Log in (Community)</a></li>
+              
+              
+            </ul>
+          </li>
+          
+        </ul>
+        </div>
+      </nav>
+      
+      <div id="content">
+        <div id="content-wrapper">
+          <div id="message"></div>
+          
+<h2>Real-life event logs - Hospital log</h2>
+
+<div id="metadata">
+    <div id="doi"><span class="doi-label">DOI:</span><a class="corporate-identity" href="https://doi.org/10.4121/uuid:d9769f3d-0ab0-4fb8-803b-0d1120ffcf54" target="_blank" rel="noopener noreferrer" title="opens in new window"><span class="doi-value">10.4121/uuid:d9769f3d-0ab0-4fb8-803b-0d1120ffcf54</span></a>
+    </div>
+    <button id="cite-btn" class="corporate-identity-standard-button" title="Show citation.">Cite</button>
+    <div id="cite">
+        <h3>Datacite citation style</h3>
+        <div id="citation">van Dongen, Boudewijn (2011): Real-life event logs - Hospital log. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:d9769f3d-0ab0-4fb8-803b-0d1120ffcf54</div>
+        <a class="corporate-identity" href="https://doi.datacite.org/dois/10.4121%2Fuuid:d9769f3d-0ab0-4fb8-803b-0d1120ffcf54" target="_blank" rel="noopener noreferrer" title="opens in new window">Other citation styles (APA, Harvard, MLA, Vancouver, Chicago, IEEE) available at Datacite</a>
+    </div>
+    <div id="type_versions">
+        <h3 class="label" id="type">Dataset</h3>
+    </div>
+
+    <div id="right_column">
+        <div id="member">
+            <a class="corporate-identity" href="/institutions/Eindhoven_University_of_Technology"><img src="/static/images/logo-eindhoven.png" alt="Eindhoven University of Technology logo" /></a>
+        </div>
+        <div id="usage">
+            <h3 class="label">Usage statistics</h3>
+            <div class="metric">
+                <div class="number">22153</div>
+                views
+            </div>
+            <div class="metric">
+                <div class="number">58</div>
+                citations
+            </div>
+            <div class="metric">
+                <div class="number">8376</div>
+                downloads
+            </div>
+        </div>
+        <div id="categories">
+          <h3 class="label">Categories</h3>
+          <ul>
+            <li><a class="corporate-identity public-button" href="/categories/13617">Information Systems</a></li>
+            </ul>
+        </div>
+        <div id="tags">
+            <h3 class="label">Keywords</h3>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22000%20Computer%20science%2C%20knowledge%20%26%20systems%22">000 Computer science, knowledge &amp; systems</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22IEEE%20Task%20Force%20on%20Process%20Mining%22">IEEE Task Force on Process Mining</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22real%20life%20event%20logs%22">real life event logs</a>
+        </div>
+        <div id="time_coverage">
+            <h3 class="label">Time coverage</h2>
+            2005-01-03T00:00:00+01:00 to 2008-03-20T00:00:00+01:00
+        </div>
+        <div id="licence">
+            <h3 class="label">Licence</h2>
+            <a class="corporate-identity public-button" href="https://doi.org/10.4121/resource:terms_of_use" target="_blank" rel="noopener noreferrer" title="opens in new window">
+              4TU General Terms of Use</a>
+        </div>
+    <div id="interoperability">
+        <h3 class="label">Interoperability</h3>
+        <ul>
+        <li><a href="/v3/datasets/5ea5bb88-feaa-4e6f-a743-6460a755e05b/versions/1/ro-crate-metadata.json" class="corporate-identity public-button" target="_blank" rel="noopener noreferrer" title="RO-Crate Metadata">RO-Crate Metadata</a>
+        </ul>
+    </div>
+        <div id="export">
+            <h3 class="label">Export as</h3>
+            <a class="corporate-identity public-button" href="/export/refworks/datasets/12716513/1">RefWorks</a>
+            <a class="corporate-identity public-button" href="/export/bibtex/datasets/12716513/1">BibTeX</a>
+            <a class="corporate-identity public-button" href="/export/refman/datasets/12716513/1">Reference Manager</a>
+            <a class="corporate-identity public-button" href="/export/endnote/datasets/12716513/1">Endnote</a>
+            <a class="corporate-identity public-button" href="/export/datacite/datasets/12716513/1">DataCite</a>
+            <a class="corporate-identity public-button" href="/export/nlm/datasets/12716513/1">NLM</a>
+            <a class="corporate-identity public-button" href="/export/dc/datasets/12716513/1">DC</a>
+            <a class="corporate-identity public-button" href="/export/cff/datasets/12716513/1">CFF</a>
+        </div>
+    </div>
+    
+    <div id="left_column">
+      <div id="authors">by
+        <a class="corporate-identity is_active" href="/authors/acf80d21-bb77-4762-a219-2110947904b1">Boudewijn van Dongen</a>
+            <a class="corporate-identity" href="https://orcid.org/0000-0002-3978-6464" target="_blank" rel="noopener noreferrer" title="opens in new window"><img src="/static/images/orcid.svg" alt="orcid logo" title="orcid profile (new window)" /></a>
+        </div>
+        <div id="description">
+        Real life log of a Dutch academic hospital, originally intended for use in the first Business Process Intelligence Contest (BPIC 2011)
+        </div>
+        <div id="dates">
+            <h3 class="label">History</h3>
+            <ul>
+                  <li>2011-03-23 first online, published, posted</li>
+            </ul>
+        </div>
+        <div id="publisher">
+            <h3 class="label">Publisher</h3>
+                Eindhoven University of Technology
+                <a class="corporate-identity" href="https://ror.org/02c2kyt77" target="_blank" rel="noopener noreferrer" title="View Eindhoven University of Technology in the Research Organization Registry (opens in new window)"><img src="/static/images/ror-icon.svg" alt="ROR" class="ror-icon" /></a>
+        </div>
+        <div id="format">
+            <h3 class="label">Format</h3>
+            media types: application/x-gzip, text/xml
+        </div>
+        <div id="language">
+            <h3 class="label">Language</h3>
+            nl
+        </div>
+        <div id="organizations">
+            <h3 class="label">Organizations</h3>
+            Eindhoven University of Technology
+        </div>
+    </div>
+</div>
+
+<div id="data">
+    <h3 class="label">Data</h3>
+    <div id="files">
+        <h3 class="label">Files (2)</h3>
+        <ul>
+            <li><span class="size">6,412 bytes</span><!--
+              --><span class="md5">MD5:<code>2adca5b934458b957d08ebc99b3c363e</code></span><!--
+              --><a class="corporate-identity" href="/file/5ea5bb88-feaa-4e6f-a743-6460a755e05b/897d8238-e471-4dec-957c-2c6b1462f082">DATA.xml</a>
+            </li>
+            <li><span class="size">2,384,410 bytes</span><!--
+              --><span class="md5">MD5:<code>482adef27906fb3f0b66989798edd987</code></span><!--
+              --><a class="corporate-identity" href="/file/5ea5bb88-feaa-4e6f-a743-6460a755e05b/6f9640f9-0f1e-44d2-9495-ef9d1bd82218">Hospital_log.xes.gz</a>
+            </li>
+            <li class="zip">
+                    <a id="download-all-files" class="corporate-identity" href="/ndownloader/items/5ea5bb88-feaa-4e6f-a743-6460a755e05b/versions/1">download all files (zip)</a>
+                <div id="total_size">2,390,822 bytes unzipped</div>
+            </li>
+        </ul>
+        <div id="download-all-files-message"></div>
+    </div>
+</div>
+</div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" class="corporate-identity-footer">
+      <div class="logos corporate-identity-background">
+        <div id="whitelogos">
+          <a href="http://www.tudelft.nl" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-tudelft.png" alt="4TU Delft"></a>
+          <a href="http://www.tue.nl" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-tueindhoven.png" alt="4TU Eindhoven"></a>
+          <a href="http://www.utwente.nl/" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-tutwente.png" alt="4TU Twente"></a>
+          <a href="http://www.wageningenur.nl/" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-wageningen.png" alt="4TU Wageningen"></a>
+        </div>
+      </div>
+      <div id="footer-wrapper2">
+      <p><a href="/info/en/about-your-data/getting-started">Getting started</a> | <a href="https://community.data.4tu.nl/contact/">Contact</a> | <a href="/s/docs/data-collection-policy.pdf">Data Collection Policy</a> | <a href="/s/docs/privacy-policy.pdf">Privacy Policy</a> | <a href="/s/docs/terms-of-use.pdf">Terms of Use</a> | <a href="https://github.com/4TUResearchData/djehuty">Source code</a></p>
+    </div>
+      <p class="djehuty-version">Djehuty v26.8</p>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,44 @@
+[
+  {
+    "key": "pdc2025",
+    "files": [
+      {
+        "name": "readme.txt",
+        "size": 3463,
+        "md5": "54fb914c330cd0d2a85d3f4c9d01c06b",
+        "url": "https://data.4tu.nl/file/7212a73a-1eac-4a08-8c01-973dca020822/0d1efe93-f925-424b-a0d9-35f9b284ebbd"
+      },
+      {
+        "name": "Base Logs.zip",
+        "size": 3205758,
+        "md5": "59918d57b7f13e6f186fcf6899c97389",
+        "url": "https://data.4tu.nl/file/7212a73a-1eac-4a08-8c01-973dca020822/5b9f6ee5-c5d2-4a48-b5bc-43a3773be34e"
+      },
+      {
+        "name": "Ground Truth Logs.zip",
+        "size": 3352152,
+        "md5": "32a18818fe437c2f6be5c2dec9dd540e",
+        "url": "https://data.4tu.nl/file/7212a73a-1eac-4a08-8c01-973dca020822/387a4851-022b-404a-b832-ff3cc3fd6a90"
+      },
+      {
+        "name": "Models.zip",
+        "size": 653582,
+        "md5": "db5d0e9cce7cd583f546c2b08a8fefaa",
+        "url": "https://data.4tu.nl/file/7212a73a-1eac-4a08-8c01-973dca020822/8d96cf23-af49-4dbc-8a23-8786d341aba4"
+      },
+      {
+        "name": "Test Logs.zip",
+        "size": 3206564,
+        "md5": "9417b099e0c6d9620ee113f8d42a5d93",
+        "url": "https://data.4tu.nl/file/7212a73a-1eac-4a08-8c01-973dca020822/a75fba8e-dc91-4e60-a998-c355eb95d215"
+      },
+      {
+        "name": "Training Logs.zip",
+        "size": 8530906,
+        "md5": "445adf204e43ddfa8589c86a36eeb0a6",
+        "url": "https://data.4tu.nl/file/7212a73a-1eac-4a08-8c01-973dca020822/fcbc8d2f-42cf-4349-bb81-7f3e43ffef02"
+      }
+    ],
+    "citation": "Eric Verbeek (2025): Process Discovery Contest 2025. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/7212a73a-1eac-4a08-8c01-973dca020822.v1"
+  }
+]

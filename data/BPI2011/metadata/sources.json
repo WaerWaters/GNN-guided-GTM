@@ -1,0 +1,14 @@
+[
+  {
+    "key": "bpi2011",
+    "files": [
+      {
+        "name": "Hospital_log.xes.gz",
+        "size": 2384410,
+        "md5": "482adef27906fb3f0b66989798edd987",
+        "url": "https://data.4tu.nl/file/5ea5bb88-feaa-4e6f-a743-6460a755e05b/6f9640f9-0f1e-44d2-9495-ef9d1bd82218"
+      }
+    ],
+    "citation": "van Dongen, Boudewijn (2011): Real-life event logs - Hospital log. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:d9769f3d-0ab0-4fb8-803b-0d1120ffcf54"
+  }
+]

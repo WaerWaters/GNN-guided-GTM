@@ -1,0 +1,32 @@
+[
+  {
+    "dataset": "bpi2018",
+    "source": "BPI2018/raw/BPI Challenge 2018.xes.gz",
+    "cases": 43809,
+    "events": 2514266,
+    "activities": 41,
+    "min_trace_length": 24,
+    "max_trace_length": 2973,
+    "missing_timestamp_events": 0,
+    "splits": {
+      "training": {
+        "cases": 30666,
+        "events": 1760618,
+        "sample_cases": 1000,
+        "sample_events": 55376
+      },
+      "validation": {
+        "cases": 6571,
+        "events": 376968,
+        "sample_cases": 1000,
+        "sample_events": 57019
+      },
+      "test": {
+        "cases": 6572,
+        "events": 376680,
+        "sample_cases": 1000,
+        "sample_events": 58300
+      }
+    }
+  }
+]

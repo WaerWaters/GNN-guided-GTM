@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="4TU.ResearchData is an international data repository for science, engineering and design. We offer research dataset curation, sharing, long-term access and preservation services to anyone, anywhere. Our training and community engagement resources are available to research and research-support professionals working to make their research data findable, accessible, interoperable and reproducible (FAIR).">
+    <meta name="keywords" content="4tu, 4TU.ResearchData, data repository">
+    <meta name="author" content="4TU.ResearchData">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; script-src 'self' 'nonce-7a64548ce7674f51bb650ebc1025783e'; style-src 'self' 'nonce-7a64548ce7674f51bb650ebc1025783e'; frame-src https://www.youtube.com">
+    <title>BPI Challenge 2015 Municipality 3 (dataset)</title>
+    <link rel='shortcut icon' type='image/x-icon' href='/static/images/favicon.ico'>
+    <link rel="stylesheet" type="text/css" href="/theme/colors.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/static/css/main.css?cache=1791500000">
+    <link rel="stylesheet" type="text/css" href="/theme/fonts.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/footer.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/header.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/typography.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/palette.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/spacing.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/buttons.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/action-bar.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/shapes.css?cache=1791964423">
+    <link rel="stylesheet" type="text/css" href="/assets/css/chips.css?cache=1791964423">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "BPI Challenge 2015 Municipality 3",
+        "identifier": "https://doi.org/10.4121/uuid:ed445cdd-27d5-4d77-a1f7-59fe7360cfbe",
+        "citation": "van Dongen, Boudewijn (2015): BPI Challenge 2015 Municipality 3. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:ed445cdd-27d5-4d77-a1f7-59fe7360cfbe",
+        "version": 1,
+        "description": "Data for municipality 3
+Parent item:
+BPI Challenge 2015
+This data is provided by five Dutch municipalities. The data contains all building permit applications over a period of approximately four years. There are many different activities present, denoted by both codes (attribute concept:name) and labels, both in Dutch (attribute taskNameNL) and in English (attribute taskNameEN). The cases in the log contain information on the main application as well as objection procedures in various stages. Furthermore, information is available about the resource that carried out the task and on the cost of the application (attribute SUMleges). The processes in the five municipalities should be identical, but may differ slightly. Especially when changes are made to procedures, rules or regulations the time at which these changes are pushed into the five municipalities may differ. Of course, over the four year period, the underlying processes have changed. The municipalities have a number of questions, namely: What are the roles of the people involved in the various stages of the process and how do these roles differ across municipalities? What are the possible points for improvement on the organizational structure for each of the municipalities? The employees of two of the five municipalities have physically moved into the same location recently. Did this lead to a change in the processes and if so, what is different? Some of the procedures will be outsourced from 2018, i.e. they will be removed from the process and the applicant needs to have these activities performed by an external party before submitting the application. What will be the effect of this on the organizational structures in the five municipalities? Where are differences in throughput times between the municipalities and how can these be explained? What are the differences in control flow between the municipalities? There are five different log files available in this collection. Events are labeled with both a code and a Dutch and English label. Each activity code consists of three parts: two digits, a variable number of characters, and then three digits. The first two digits as well as the characters indicate the subprocess the activity belongs to. For instance ‘01_HOOFD_xxx’ indicates the main process and ‘01_BB_xxx’ indicates the ‘objections and complaints’ (‘Beroep en Bezwaar’ in Dutch) subprocess. The last three digits hint on the order in which activities are executed, where the first digit often indicates a phase within a process. Each trace and each event, contain several data attributes that can be used for various checks and predictions. Furthermore, some employees may have performed tasks for different municipalities, i.e. if the employee number is the same, it is safe to assume the same person is being identified.",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Eindhoven University of Technology"
+        },
+        "license": "https://doi.org/10.4121/resource:terms_of_use",
+        "keywords": ["BPI Challenge 2015", "Business Process Intelligence (BPI)", "IEEE Task Force on Process Mining", "real life event logs"],
+        "creator": [
+        {
+            "@type": "Person",
+            "name": "Boudewijn van Dongen",
+            "sameAs": "https://orcid.org/0000-0002-3978-6464"
+          }
+        ]
+            ,"includedInDataCatalog": [
+                {
+                    "@type": "DataCatalog",
+                    "name": "BPI Challenge 2015",
+                    "url": "https://data.4tu.nl/collections/f929dc43-b588-404b-8d2c-be4903622913"
+                }
+            ]
+            ,"isAccessibleForFree" : true,
+            "distribution": {
+                "@type": "DataDownload",
+                "contentUrl": "https://data.4tu.nl/ndownloader/items/d6741425-5f62-4a59-92c5-08bae64b4611/versions/1",
+                "encodingFormat": "application/zip"
+            }
+    }
+    </script>
+<script src="/static/js/jquery-3.6.0.min.js"></script>
+<script src="/static/js/landing_page.js?cache=1790942921"></script>
+<script src="/static/js/quill.min.js"></script>
+<script src="/static/js/utils.js?cache=1744290797"></script>
+<link rel="stylesheet" type="text/css" href="/static/css/pub.css?cache=1742203405" />
+<link href="/static/css/quill.4tu.css" rel="stylesheet">
+<link href="/static/css/form.css?cache=1739977731" rel="stylesheet">
+<style nonce="7a64548ce7674f51bb650ebc1025783e">
+#access-request-wrapper { display: none; }
+#content-wrapper {padding: 0}
+</style>
+<script nonce="7a64548ce7674f51bb650ebc1025783e">
+const dataset_uuid = "d6741425-5f62-4a59-92c5-08bae64b4611";
+</script>
+  </head>
+  <body>
+    <div id="wrapper" class="footer2">
+      <div id="header" class="corporate-identity-header">
+        <div id="header-left"><a href="/"><img id="corporate-identity-logo" src="/static/images/logo.png" alt="4TU.ResearchData logo"></a></div>
+        <div id="header-middle">
+          <div id="search-box-wrapper">
+            <form method="get" action="/search?search=">
+              <input id="search-box" aria-label="Search" title="Search" name="search" type="text" placeholder="Search..." maxlength="255" value=""><!--
+              --><input type="submit" class="search-submit-btn fa-search" value="&#xf002;">
+            </form>
+          </div>
+        </div>
+        <div id="header-right">
+          <a href="/login"><div class="button" id="login-button">Log in</div></a>
+        </div>
+      </div>
+      <nav id="site-navigation">
+        <div id="primary-menu-wrapper">
+        <ul id="primary-menu" class="primary-menu">
+          
+          <li class="menu-item menu-item-has-children">About your Data
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/getting-started">Getting started</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/en/about-your-data/manage-share">Manage &amp; Share</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/publish-cite">Publish &amp; Cite</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/find-reuse">Find &amp; Re-use</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/scientific-visualisation">Scientific Visualisation</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/netcdf-and-opendap">NetCDF &amp; OPeNDAP</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/codecheck">CODECHECK</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/iiif">Image interoperability with IIIF</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/ro-crate">RO-CRATE</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/igsn">IGSN</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">4TU.ResearchData
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/our-organisation/">Organisation</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-4turesearchdata/policies-guidelines">Policies &amp; Guidelines</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/contact/">Team &amp; Contact</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/frequently-asked-questions/">Frequently Asked Questions</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/wp-content/uploads/2025/04/4TU.ResearchData_Strategy_2025.pdf">Strategy 2025 – 2029</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/branding/">Branding</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Our Community
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/join-our-community/">Join our community</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/members/">Community members</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/groups/">Community groups</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/the-fair-data-fund/">FAIR Data Fund</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Training
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/training/">Training</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/introduction-to-version-control-with-git/">Introduction to Version Control with Git</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/introduction-to-programming-in-research-with-python/">Introduction to programming in research with Python</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/efficient-research-workflows-with-the-unix-shell/">Efficient Research Workflows with the UNIX Shell</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/training-resources-materials//">Materials</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Collaborations
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/collaborations/">Collaborations</a></li>
+              
+              
+              
+              <li class="submenu-item submenu-item-has-children"><a href="https://community.data.4tu.nl/digital-capacity-for-nes/">Digital Capacity for NES</a>
+                <ul class="sub-submenu">
+                  
+                  <li class="sub-submenu-item"><a href="https://community.data.4tu.nl/call-1-institutional-nomination-for-carpentries-training-seats/">Call 1: Instructors</a></li>
+                  
+                  <li class="sub-submenu-item"><a href="https://community.data.4tu.nl/call-for-collaborative-lesson-development-training/">Call for Lesson Dev</a></li>
+                  
+                  <li class="sub-submenu-item"><a href="https://community.data.4tu.nl/open-call-individual-applications-for-carpentries-instructor-training-seats/">Open Call: Instructor Training</a></li>
+                  
+                </ul>
+              </li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">News
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl">Latest news</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/category/use-cases/">Use cases</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/subscribe-to-newsletter/">Subscribe to newsletter</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Log in &amp; Upload Data
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="/info/log-in-upload-data/about-log-in">About Log in / Sign up</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://data.4tu.nl/account/home">Log in (Data Repository)</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/wp-login.php">Log in (Community)</a></li>
+              
+              
+            </ul>
+          </li>
+          
+        </ul>
+        </div>
+      </nav>
+      
+      <div id="content">
+        <div id="content-wrapper">
+          <div id="message"></div>
+          
+<h2>BPI Challenge 2015 Municipality 3</h2>
+
+<div id="metadata">
+    <div id="doi"><span class="doi-label">DOI:</span><a class="corporate-identity" href="https://doi.org/10.4121/uuid:ed445cdd-27d5-4d77-a1f7-59fe7360cfbe" target="_blank" rel="noopener noreferrer" title="opens in new window"><span class="doi-value">10.4121/uuid:ed445cdd-27d5-4d77-a1f7-59fe7360cfbe</span></a>
+    </div>
+    <button id="cite-btn" class="corporate-identity-standard-button" title="Show citation.">Cite</button>
+    <div id="cite">
+        <h3>Datacite citation style</h3>
+        <div id="citation">van Dongen, Boudewijn (2015): BPI Challenge 2015 Municipality 3. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:ed445cdd-27d5-4d77-a1f7-59fe7360cfbe</div>
+        <a class="corporate-identity" href="https://doi.datacite.org/dois/10.4121%2Fuuid:ed445cdd-27d5-4d77-a1f7-59fe7360cfbe" target="_blank" rel="noopener noreferrer" title="opens in new window">Other citation styles (APA, Harvard, MLA, Vancouver, Chicago, IEEE) available at Datacite</a>
+    </div>
+    <div id="type_versions">
+        <h3 class="label" id="type">Dataset</h3>
+    </div>
+
+    <div id="right_column">
+        <div id="member">
+            <a class="corporate-identity" href="/institutions/Eindhoven_University_of_Technology"><img src="/static/images/logo-eindhoven.png" alt="Eindhoven University of Technology logo" /></a>
+        </div>
+        <div id="usage">
+            <h3 class="label">Usage statistics</h3>
+            <div class="metric">
+                <div class="number">4079</div>
+                views
+            </div>
+            <div class="metric">
+                <div class="number">1</div>
+                citations
+            </div>
+            <div class="metric">
+                <div class="number">2225</div>
+                downloads
+            </div>
+        </div>
+        <div id="categories">
+          <h3 class="label">Categories</h3>
+          <ul>
+            <li><a class="corporate-identity public-button" href="/categories/13503">Business and Management</a></li>
+            <li><a class="corporate-identity public-button" href="/categories/13617">Information Systems</a></li>
+            </ul>
+        </div>
+        <div id="tags">
+            <h3 class="label">Keywords</h3>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22BPI%20Challenge%202015%22">BPI Challenge 2015</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22Business%20Process%20Intelligence%20%28BPI%29%22">Business Process Intelligence (BPI)</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22IEEE%20Task%20Force%20on%20Process%20Mining%22">IEEE Task Force on Process Mining</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22real%20life%20event%20logs%22">real life event logs</a>
+        </div>
+        <div id="licence">
+            <h3 class="label">Licence</h2>
+            <a class="corporate-identity public-button" href="https://doi.org/10.4121/resource:terms_of_use" target="_blank" rel="noopener noreferrer" title="opens in new window">
+              4TU General Terms of Use</a>
+        </div>
+    <div id="interoperability">
+        <h3 class="label">Interoperability</h3>
+        <ul>
+        <li><a href="/v3/datasets/d6741425-5f62-4a59-92c5-08bae64b4611/versions/1/ro-crate-metadata.json" class="corporate-identity public-button" target="_blank" rel="noopener noreferrer" title="RO-Crate Metadata">RO-Crate Metadata</a>
+        </ul>
+    </div>
+        <div id="collections">
+            <h3 class="label">Collection</h3>
+            <ul>
+                <li><a class="corporate-identity" href="/collections/f929dc43-b588-404b-8d2c-be4903622913">BPI Challenge 2015</a></li>
+            </ul>
+        </div>
+        <div id="export">
+            <h3 class="label">Export as</h3>
+            <a class="corporate-identity public-button" href="/export/refworks/datasets/d6741425-5f62-4a59-92c5-08bae64b4611/1">RefWorks</a>
+            <a class="corporate-identity public-button" href="/export/bibtex/datasets/d6741425-5f62-4a59-92c5-08bae64b4611/1">BibTeX</a>
+            <a class="corporate-identity public-button" href="/export/refman/datasets/d6741425-5f62-4a59-92c5-08bae64b4611/1">Reference Manager</a>
+            <a class="corporate-identity public-button" href="/export/endnote/datasets/d6741425-5f62-4a59-92c5-08bae64b4611/1">Endnote</a>
+            <a class="corporate-identity public-button" href="/export/datacite/datasets/d6741425-5f62-4a59-92c5-08bae64b4611/1">DataCite</a>
+            <a class="corporate-identity public-button" href="/export/nlm/datasets/d6741425-5f62-4a59-92c5-08bae64b4611/1">NLM</a>
+            <a class="corporate-identity public-button" href="/export/dc/datasets/d6741425-5f62-4a59-92c5-08bae64b4611/1">DC</a>
+            <a class="corporate-identity public-button" href="/export/cff/datasets/d6741425-5f62-4a59-92c5-08bae64b4611/1">CFF</a>
+        </div>
+    </div>
+    
+    <div id="left_column">
+      <div id="authors">by
+        <a class="corporate-identity is_active" href="/authors/acf80d21-bb77-4762-a219-2110947904b1">Boudewijn van Dongen</a>
+            <a class="corporate-identity" href="https://orcid.org/0000-0002-3978-6464" target="_blank" rel="noopener noreferrer" title="opens in new window"><img src="/static/images/orcid.svg" alt="orcid logo" title="orcid profile (new window)" /></a>
+        </div>
+        <div id="description">
+        Data for municipality 3
+Parent item:
+BPI Challenge 2015
+This data is provided by five Dutch municipalities. The data contains all building permit applications over a period of approximately four years. There are many different activities present, denoted by both codes (attribute concept:name) and labels, both in Dutch (attribute taskNameNL) and in English (attribute taskNameEN). The cases in the log contain information on the main application as well as objection procedures in various stages. Furthermore, information is available about the resource that carried out the task and on the cost of the application (attribute SUMleges). The processes in the five municipalities should be identical, but may differ slightly. Especially when changes are made to procedures, rules or regulations the time at which these changes are pushed into the five municipalities may differ. Of course, over the four year period, the underlying processes have changed. The municipalities have a number of questions, namely: What are the roles of the people involved in the various stages of the process and how do these roles differ across municipalities? What are the possible points for improvement on the organizational structure for each of the municipalities? The employees of two of the five municipalities have physically moved into the same location recently. Did this lead to a change in the processes and if so, what is different? Some of the procedures will be outsourced from 2018, i.e. they will be removed from the process and the applicant needs to have these activities performed by an external party before submitting the application. What will be the effect of this on the organizational structures in the five municipalities? Where are differences in throughput times between the municipalities and how can these be explained? What are the differences in control flow between the municipalities? There are five different log files available in this collection. Events are labeled with both a code and a Dutch and English label. Each activity code consists of three parts: two digits, a variable number of characters, and then three digits. The first two digits as well as the characters indicate the subprocess the activity belongs to. For instance ‘01_HOOFD_xxx’ indicates the main process and ‘01_BB_xxx’ indicates the ‘objections and complaints’ (‘Beroep en Bezwaar’ in Dutch) subprocess. The last three digits hint on the order in which activities are executed, where the first digit often indicates a phase within a process. Each trace and each event, contain several data attributes that can be used for various checks and predictions. Furthermore, some employees may have performed tasks for different municipalities, i.e. if the employee number is the same, it is safe to assume the same person is being identified.
+        </div>
+        <div id="dates">
+            <h3 class="label">History</h3>
+            <ul>
+                  <li>2015-05-01 first online, published, posted</li>
+            </ul>
+        </div>
+        <div id="publisher">
+            <h3 class="label">Publisher</h3>
+                Eindhoven University of Technology
+                <a class="corporate-identity" href="https://ror.org/02c2kyt77" target="_blank" rel="noopener noreferrer" title="View Eindhoven University of Technology in the Research Organization Registry (opens in new window)"><img src="/static/images/ror-icon.svg" alt="ROR" class="ror-icon" /></a>
+        </div>
+        <div id="format">
+            <h3 class="label">Format</h3>
+            media types: application/zip, text/xml
+        </div>
+        <div id="references">
+            <h3 class="label">References</h3>
+            <ul>
+                <li><a class="corporate-identity" href="http://www.win.tue.nl/bpi/2015/challenge" target="_blank" rel="noopener noreferrer" title="opens in new window">http://www.win.tue.nl/bpi/2015/challenge</a></li>
+            </ul>
+        </div>
+        <div id="language">
+            <h3 class="label">Language</h3>
+            nl
+        </div>
+        <div id="organizations">
+            <h3 class="label">Organizations</h3>
+            Eindhoven University of Technology
+        </div>
+    </div>
+</div>
+
+<div id="data">
+    <h3 class="label">Data</h3>
+    <div id="files">
+        <h3 class="label">Files (2)</h3>
+        <ul>
+            <li><span class="size">46,768,886 bytes</span><!--
+              --><span class="md5">MD5:<code>7fee0bd0bfb8169cb2f91f2c77d2598e</code></span><!--
+              --><a class="corporate-identity" href="/file/d6741425-5f62-4a59-92c5-08bae64b4611/21b574ab-02ba-4dfb-badc-bb46ce0edc44">BPIC15_3.xes</a>
+            </li>
+            <li><span class="size">46,768,886 bytes</span><!--
+              --><span class="md5">MD5:<code>7fee0bd0bfb8169cb2f91f2c77d2598e</code></span><!--
+              --><a class="corporate-identity" href="/file/d6741425-5f62-4a59-92c5-08bae64b4611/69dd5b25-5d67-401d-98de-f1949b6d59f0">DATA1.xml</a>
+            </li>
+            <li class="zip">
+                    <a id="download-all-files" class="corporate-identity" href="/ndownloader/items/d6741425-5f62-4a59-92c5-08bae64b4611/versions/1">download all files (zip)</a>
+                <div id="total_size">93,537,772 bytes unzipped</div>
+            </li>
+        </ul>
+        <div id="download-all-files-message"></div>
+    </div>
+</div>
+</div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" class="corporate-identity-footer">
+      <div class="logos corporate-identity-background">
+        <div id="whitelogos">
+          <a href="http://www.tudelft.nl" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-tudelft.png" alt="4TU Delft"></a>
+          <a href="http://www.tue.nl" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-tueindhoven.png" alt="4TU Eindhoven"></a>
+          <a href="http://www.utwente.nl/" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-tutwente.png" alt="4TU Twente"></a>
+          <a href="http://www.wageningenur.nl/" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-wageningen.png" alt="4TU Wageningen"></a>
+        </div>
+      </div>
+      <div id="footer-wrapper2">
+      <p><a href="/info/en/about-your-data/getting-started">Getting started</a> | <a href="https://community.data.4tu.nl/contact/">Contact</a> | <a href="/s/docs/data-collection-policy.pdf">Data Collection Policy</a> | <a href="/s/docs/privacy-policy.pdf">Privacy Policy</a> | <a href="/s/docs/terms-of-use.pdf">Terms of Use</a> | <a href="https://github.com/4TUResearchData/djehuty">Source code</a></p>
+    </div>
+      <p class="djehuty-version">Djehuty v26.8</p>
+    </div>
+  </body>
+</html>

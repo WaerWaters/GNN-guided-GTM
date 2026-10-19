@@ -1,0 +1,32 @@
+[
+  {
+    "dataset": "bpi2014",
+    "source": "BPI2014/processed/log.xes",
+    "cases": 46616,
+    "events": 466737,
+    "activities": 39,
+    "min_trace_length": 1,
+    "max_trace_length": 178,
+    "missing_timestamp_events": 0,
+    "splits": {
+      "training": {
+        "cases": 32631,
+        "events": 327852,
+        "sample_cases": 1000,
+        "sample_events": 9613
+      },
+      "validation": {
+        "cases": 6992,
+        "events": 70426,
+        "sample_cases": 1000,
+        "sample_events": 10165
+      },
+      "test": {
+        "cases": 6993,
+        "events": 68459,
+        "sample_cases": 1000,
+        "sample_events": 10028
+      }
+    }
+  }
+]

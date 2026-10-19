@@ -1,0 +1,14 @@
+[
+  {
+    "key": "bpi2014",
+    "files": [
+      {
+        "name": "Detail_Incident_Activity.csv",
+        "size": 39172687,
+        "md5": "afecd95a464271b97c745f361d3516af",
+        "url": "https://data.4tu.nl/file/657fb1d6-b4c2-4adc-ba48-ed25bf313025/bd6cfa31-44f8-4542-9bad-f1f70c894728"
+      }
+    ],
+    "citation": "van Dongen, Boudewijn (2014): BPI Challenge 2014: Activity log for incidents. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:86977bac-f874-49cf-8337-80f26bf5d2ef"
+  }
+]

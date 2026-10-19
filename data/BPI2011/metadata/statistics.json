@@ -1,0 +1,32 @@
+[
+  {
+    "dataset": "bpi2011",
+    "source": "BPI2011/raw/Hospital_log.xes.gz",
+    "cases": 1143,
+    "events": 150291,
+    "activities": 624,
+    "min_trace_length": 1,
+    "max_trace_length": 1814,
+    "missing_timestamp_events": 0,
+    "splits": {
+      "training": {
+        "cases": 800,
+        "events": 103276,
+        "sample_cases": 800,
+        "sample_events": 103276
+      },
+      "validation": {
+        "cases": 171,
+        "events": 25120,
+        "sample_cases": 171,
+        "sample_events": 25120
+      },
+      "test": {
+        "cases": 172,
+        "events": 21895,
+        "sample_cases": 172,
+        "sample_events": 21895
+      }
+    }
+  }
+]

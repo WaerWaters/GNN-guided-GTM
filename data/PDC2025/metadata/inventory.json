@@ -1,0 +1,4034 @@
+[
+  {
+    "model": "pdc2025_000000",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_000000/reference/pdc2025_000000.pnml"
+  },
+  {
+    "model": "pdc2025_000001",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_000001/reference/pdc2025_000001.pnml"
+  },
+  {
+    "model": "pdc2025_000010",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_000010/reference/pdc2025_000010.pnml"
+  },
+  {
+    "model": "pdc2025_000011",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_000011/reference/pdc2025_000011.pnml"
+  },
+  {
+    "model": "pdc2025_000100",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_000100/reference/pdc2025_000100.pnml"
+  },
+  {
+    "model": "pdc2025_000101",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_000101/reference/pdc2025_000101.pnml"
+  },
+  {
+    "model": "pdc2025_000110",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_000110/reference/pdc2025_000110.pnml"
+  },
+  {
+    "model": "pdc2025_000111",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_000111/reference/pdc2025_000111.pnml"
+  },
+  {
+    "model": "pdc2025_001000",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_001000/reference/pdc2025_001000.pnml"
+  },
+  {
+    "model": "pdc2025_001001",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_001001/reference/pdc2025_001001.pnml"
+  },
+  {
+    "model": "pdc2025_001010",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_001010/reference/pdc2025_001010.pnml"
+  },
+  {
+    "model": "pdc2025_001011",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_001011/reference/pdc2025_001011.pnml"
+  },
+  {
+    "model": "pdc2025_001100",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_001100/reference/pdc2025_001100.pnml"
+  },
+  {
+    "model": "pdc2025_001101",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_001101/reference/pdc2025_001101.pnml"
+  },
+  {
+    "model": "pdc2025_001110",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_001110/reference/pdc2025_001110.pnml"
+  },
+  {
+    "model": "pdc2025_001111",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_001111/reference/pdc2025_001111.pnml"
+  },
+  {
+    "model": "pdc2025_010000",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_010000/reference/pdc2025_010000.pnml"
+  },
+  {
+    "model": "pdc2025_010001",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_010001/reference/pdc2025_010001.pnml"
+  },
+  {
+    "model": "pdc2025_010010",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_010010/reference/pdc2025_010010.pnml"
+  },
+  {
+    "model": "pdc2025_010011",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_010011/reference/pdc2025_010011.pnml"
+  },
+  {
+    "model": "pdc2025_010100",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_010100/reference/pdc2025_010100.pnml"
+  },
+  {
+    "model": "pdc2025_010101",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_010101/reference/pdc2025_010101.pnml"
+  },
+  {
+    "model": "pdc2025_010110",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_010110/reference/pdc2025_010110.pnml"
+  },
+  {
+    "model": "pdc2025_010111",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_010111/reference/pdc2025_010111.pnml"
+  },
+  {
+    "model": "pdc2025_011000",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_011000/reference/pdc2025_011000.pnml"
+  },
+  {
+    "model": "pdc2025_011001",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_011001/reference/pdc2025_011001.pnml"
+  },
+  {
+    "model": "pdc2025_011010",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_011010/reference/pdc2025_011010.pnml"
+  },
+  {
+    "model": "pdc2025_011011",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_011011/reference/pdc2025_011011.pnml"
+  },
+  {
+    "model": "pdc2025_011100",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_011100/reference/pdc2025_011100.pnml"
+  },
+  {
+    "model": "pdc2025_011101",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_011101/reference/pdc2025_011101.pnml"
+  },
+  {
+    "model": "pdc2025_011110",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_011110/reference/pdc2025_011110.pnml"
+  },
+  {
+    "model": "pdc2025_011111",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_011111/reference/pdc2025_011111.pnml"
+  },
+  {
+    "model": "pdc2025_020000",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_020000/reference/pdc2025_020000.pnml"
+  },
+  {
+    "model": "pdc2025_020001",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_020001/reference/pdc2025_020001.pnml"
+  },
+  {
+    "model": "pdc2025_020010",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_020010/reference/pdc2025_020010.pnml"
+  },
+  {
+    "model": "pdc2025_020011",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_020011/reference/pdc2025_020011.pnml"
+  },
+  {
+    "model": "pdc2025_020100",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_020100/reference/pdc2025_020100.pnml"
+  },
+  {
+    "model": "pdc2025_020101",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_020101/reference/pdc2025_020101.pnml"
+  },
+  {
+    "model": "pdc2025_020110",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_020110/reference/pdc2025_020110.pnml"
+  },
+  {
+    "model": "pdc2025_020111",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_020111/reference/pdc2025_020111.pnml"
+  },
+  {
+    "model": "pdc2025_021000",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_021000/reference/pdc2025_021000.pnml"
+  },
+  {
+    "model": "pdc2025_021001",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_021001/reference/pdc2025_021001.pnml"
+  },
+  {
+    "model": "pdc2025_021010",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_021010/reference/pdc2025_021010.pnml"
+  },
+  {
+    "model": "pdc2025_021011",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_021011/reference/pdc2025_021011.pnml"
+  },
+  {
+    "model": "pdc2025_021100",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_021100/reference/pdc2025_021100.pnml"
+  },
+  {
+    "model": "pdc2025_021101",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_021101/reference/pdc2025_021101.pnml"
+  },
+  {
+    "model": "pdc2025_021110",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_021110/reference/pdc2025_021110.pnml"
+  },
+  {
+    "model": "pdc2025_021111",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_021111/reference/pdc2025_021111.pnml"
+  },
+  {
+    "model": "pdc2025_100000",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_100000/reference/pdc2025_100000.pnml"
+  },
+  {
+    "model": "pdc2025_100001",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_100001/reference/pdc2025_100001.pnml"
+  },
+  {
+    "model": "pdc2025_100010",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_100010/reference/pdc2025_100010.pnml"
+  },
+  {
+    "model": "pdc2025_100011",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_100011/reference/pdc2025_100011.pnml"
+  },
+  {
+    "model": "pdc2025_100100",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_100100/reference/pdc2025_100100.pnml"
+  },
+  {
+    "model": "pdc2025_100101",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_100101/reference/pdc2025_100101.pnml"
+  },
+  {
+    "model": "pdc2025_100110",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_100110/reference/pdc2025_100110.pnml"
+  },
+  {
+    "model": "pdc2025_100111",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_100111/reference/pdc2025_100111.pnml"
+  },
+  {
+    "model": "pdc2025_101000",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_101000/reference/pdc2025_101000.pnml"
+  },
+  {
+    "model": "pdc2025_101001",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_101001/reference/pdc2025_101001.pnml"
+  },
+  {
+    "model": "pdc2025_101010",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_101010/reference/pdc2025_101010.pnml"
+  },
+  {
+    "model": "pdc2025_101011",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_101011/reference/pdc2025_101011.pnml"
+  },
+  {
+    "model": "pdc2025_101100",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_101100/reference/pdc2025_101100.pnml"
+  },
+  {
+    "model": "pdc2025_101101",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_101101/reference/pdc2025_101101.pnml"
+  },
+  {
+    "model": "pdc2025_101110",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_101110/reference/pdc2025_101110.pnml"
+  },
+  {
+    "model": "pdc2025_101111",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_101111/reference/pdc2025_101111.pnml"
+  },
+  {
+    "model": "pdc2025_110000",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_110000/reference/pdc2025_110000.pnml"
+  },
+  {
+    "model": "pdc2025_110001",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_110001/reference/pdc2025_110001.pnml"
+  },
+  {
+    "model": "pdc2025_110010",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_110010/reference/pdc2025_110010.pnml"
+  },
+  {
+    "model": "pdc2025_110011",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_110011/reference/pdc2025_110011.pnml"
+  },
+  {
+    "model": "pdc2025_110100",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_110100/reference/pdc2025_110100.pnml"
+  },
+  {
+    "model": "pdc2025_110101",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_110101/reference/pdc2025_110101.pnml"
+  },
+  {
+    "model": "pdc2025_110110",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_110110/reference/pdc2025_110110.pnml"
+  },
+  {
+    "model": "pdc2025_110111",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_110111/reference/pdc2025_110111.pnml"
+  },
+  {
+    "model": "pdc2025_111000",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_111000/reference/pdc2025_111000.pnml"
+  },
+  {
+    "model": "pdc2025_111001",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_111001/reference/pdc2025_111001.pnml"
+  },
+  {
+    "model": "pdc2025_111010",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_111010/reference/pdc2025_111010.pnml"
+  },
+  {
+    "model": "pdc2025_111011",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_111011/reference/pdc2025_111011.pnml"
+  },
+  {
+    "model": "pdc2025_111100",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_111100/reference/pdc2025_111100.pnml"
+  },
+  {
+    "model": "pdc2025_111101",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_111101/reference/pdc2025_111101.pnml"
+  },
+  {
+    "model": "pdc2025_111110",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_111110/reference/pdc2025_111110.pnml"
+  },
+  {
+    "model": "pdc2025_111111",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_111111/reference/pdc2025_111111.pnml"
+  },
+  {
+    "model": "pdc2025_120000",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_120000/reference/pdc2025_120000.pnml"
+  },
+  {
+    "model": "pdc2025_120001",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_120001/reference/pdc2025_120001.pnml"
+  },
+  {
+    "model": "pdc2025_120010",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_120010/reference/pdc2025_120010.pnml"
+  },
+  {
+    "model": "pdc2025_120011",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_120011/reference/pdc2025_120011.pnml"
+  },
+  {
+    "model": "pdc2025_120100",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_120100/reference/pdc2025_120100.pnml"
+  },
+  {
+    "model": "pdc2025_120101",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_120101/reference/pdc2025_120101.pnml"
+  },
+  {
+    "model": "pdc2025_120110",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_120110/reference/pdc2025_120110.pnml"
+  },
+  {
+    "model": "pdc2025_120111",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_120111/reference/pdc2025_120111.pnml"
+  },
+  {
+    "model": "pdc2025_121000",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_121000/reference/pdc2025_121000.pnml"
+  },
+  {
+    "model": "pdc2025_121001",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_121001/reference/pdc2025_121001.pnml"
+  },
+  {
+    "model": "pdc2025_121010",
+    "split": "test",
+    "role": "reference",
+    "path": "PDC2025/test/pdc2025_121010/reference/pdc2025_121010.pnml"
+  },
+  {
+    "model": "pdc2025_121011",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_121011/reference/pdc2025_121011.pnml"
+  },
+  {
+    "model": "pdc2025_121100",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_121100/reference/pdc2025_121100.pnml"
+  },
+  {
+    "model": "pdc2025_121101",
+    "split": "validation",
+    "role": "reference",
+    "path": "PDC2025/validation/pdc2025_121101/reference/pdc2025_121101.pnml"
+  },
+  {
+    "model": "pdc2025_121110",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_121110/reference/pdc2025_121110.pnml"
+  },
+  {
+    "model": "pdc2025_121111",
+    "split": "training",
+    "role": "reference",
+    "path": "PDC2025/training/pdc2025_121111/reference/pdc2025_121111.pnml"
+  },
+  {
+    "model": "pdc2025_000000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000000/discovery/pdc2025_00000000.xes"
+  },
+  {
+    "model": "pdc2025_000000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000000/discovery/pdc2025_00000010.xes"
+  },
+  {
+    "model": "pdc2025_000000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000000/discovery/pdc2025_00000011.xes"
+  },
+  {
+    "model": "pdc2025_000001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000001/discovery/pdc2025_00000100.xes"
+  },
+  {
+    "model": "pdc2025_000001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000001/discovery/pdc2025_00000110.xes"
+  },
+  {
+    "model": "pdc2025_000001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000001/discovery/pdc2025_00000111.xes"
+  },
+  {
+    "model": "pdc2025_000010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000010/discovery/pdc2025_00001000.xes"
+  },
+  {
+    "model": "pdc2025_000010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000010/discovery/pdc2025_00001010.xes"
+  },
+  {
+    "model": "pdc2025_000010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000010/discovery/pdc2025_00001011.xes"
+  },
+  {
+    "model": "pdc2025_000011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_000011/discovery/pdc2025_00001100.xes"
+  },
+  {
+    "model": "pdc2025_000011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_000011/discovery/pdc2025_00001110.xes"
+  },
+  {
+    "model": "pdc2025_000011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_000011/discovery/pdc2025_00001111.xes"
+  },
+  {
+    "model": "pdc2025_000100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000100/discovery/pdc2025_00010000.xes"
+  },
+  {
+    "model": "pdc2025_000100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000100/discovery/pdc2025_00010010.xes"
+  },
+  {
+    "model": "pdc2025_000100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000100/discovery/pdc2025_00010011.xes"
+  },
+  {
+    "model": "pdc2025_000101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000101/discovery/pdc2025_00010100.xes"
+  },
+  {
+    "model": "pdc2025_000101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000101/discovery/pdc2025_00010110.xes"
+  },
+  {
+    "model": "pdc2025_000101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000101/discovery/pdc2025_00010111.xes"
+  },
+  {
+    "model": "pdc2025_000110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000110/discovery/pdc2025_00011000.xes"
+  },
+  {
+    "model": "pdc2025_000110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000110/discovery/pdc2025_00011010.xes"
+  },
+  {
+    "model": "pdc2025_000110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_000110/discovery/pdc2025_00011011.xes"
+  },
+  {
+    "model": "pdc2025_000111",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_000111/discovery/pdc2025_00011100.xes"
+  },
+  {
+    "model": "pdc2025_000111",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_000111/discovery/pdc2025_00011110.xes"
+  },
+  {
+    "model": "pdc2025_000111",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_000111/discovery/pdc2025_00011111.xes"
+  },
+  {
+    "model": "pdc2025_001000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001000/discovery/pdc2025_00100000.xes"
+  },
+  {
+    "model": "pdc2025_001000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001000/discovery/pdc2025_00100010.xes"
+  },
+  {
+    "model": "pdc2025_001000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001000/discovery/pdc2025_00100011.xes"
+  },
+  {
+    "model": "pdc2025_001001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_001001/discovery/pdc2025_00100100.xes"
+  },
+  {
+    "model": "pdc2025_001001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_001001/discovery/pdc2025_00100110.xes"
+  },
+  {
+    "model": "pdc2025_001001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_001001/discovery/pdc2025_00100111.xes"
+  },
+  {
+    "model": "pdc2025_001010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001010/discovery/pdc2025_00101000.xes"
+  },
+  {
+    "model": "pdc2025_001010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001010/discovery/pdc2025_00101010.xes"
+  },
+  {
+    "model": "pdc2025_001010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001010/discovery/pdc2025_00101011.xes"
+  },
+  {
+    "model": "pdc2025_001011",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_001011/discovery/pdc2025_00101100.xes"
+  },
+  {
+    "model": "pdc2025_001011",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_001011/discovery/pdc2025_00101110.xes"
+  },
+  {
+    "model": "pdc2025_001011",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_001011/discovery/pdc2025_00101111.xes"
+  },
+  {
+    "model": "pdc2025_001100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001100/discovery/pdc2025_00110000.xes"
+  },
+  {
+    "model": "pdc2025_001100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001100/discovery/pdc2025_00110010.xes"
+  },
+  {
+    "model": "pdc2025_001100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001100/discovery/pdc2025_00110011.xes"
+  },
+  {
+    "model": "pdc2025_001101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001101/discovery/pdc2025_00110100.xes"
+  },
+  {
+    "model": "pdc2025_001101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001101/discovery/pdc2025_00110110.xes"
+  },
+  {
+    "model": "pdc2025_001101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001101/discovery/pdc2025_00110111.xes"
+  },
+  {
+    "model": "pdc2025_001110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001110/discovery/pdc2025_00111000.xes"
+  },
+  {
+    "model": "pdc2025_001110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001110/discovery/pdc2025_00111010.xes"
+  },
+  {
+    "model": "pdc2025_001110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_001110/discovery/pdc2025_00111011.xes"
+  },
+  {
+    "model": "pdc2025_001111",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_001111/discovery/pdc2025_00111100.xes"
+  },
+  {
+    "model": "pdc2025_001111",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_001111/discovery/pdc2025_00111110.xes"
+  },
+  {
+    "model": "pdc2025_001111",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_001111/discovery/pdc2025_00111111.xes"
+  },
+  {
+    "model": "pdc2025_010000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010000/discovery/pdc2025_01000000.xes"
+  },
+  {
+    "model": "pdc2025_010000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010000/discovery/pdc2025_01000010.xes"
+  },
+  {
+    "model": "pdc2025_010000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010000/discovery/pdc2025_01000011.xes"
+  },
+  {
+    "model": "pdc2025_010001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010001/discovery/pdc2025_01000100.xes"
+  },
+  {
+    "model": "pdc2025_010001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010001/discovery/pdc2025_01000110.xes"
+  },
+  {
+    "model": "pdc2025_010001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010001/discovery/pdc2025_01000111.xes"
+  },
+  {
+    "model": "pdc2025_010010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010010/discovery/pdc2025_01001000.xes"
+  },
+  {
+    "model": "pdc2025_010010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010010/discovery/pdc2025_01001010.xes"
+  },
+  {
+    "model": "pdc2025_010010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010010/discovery/pdc2025_01001011.xes"
+  },
+  {
+    "model": "pdc2025_010011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010011/discovery/pdc2025_01001100.xes"
+  },
+  {
+    "model": "pdc2025_010011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010011/discovery/pdc2025_01001110.xes"
+  },
+  {
+    "model": "pdc2025_010011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010011/discovery/pdc2025_01001111.xes"
+  },
+  {
+    "model": "pdc2025_010100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010100/discovery/pdc2025_01010000.xes"
+  },
+  {
+    "model": "pdc2025_010100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010100/discovery/pdc2025_01010010.xes"
+  },
+  {
+    "model": "pdc2025_010100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010100/discovery/pdc2025_01010011.xes"
+  },
+  {
+    "model": "pdc2025_010101",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_010101/discovery/pdc2025_01010100.xes"
+  },
+  {
+    "model": "pdc2025_010101",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_010101/discovery/pdc2025_01010110.xes"
+  },
+  {
+    "model": "pdc2025_010101",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_010101/discovery/pdc2025_01010111.xes"
+  },
+  {
+    "model": "pdc2025_010110",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_010110/discovery/pdc2025_01011000.xes"
+  },
+  {
+    "model": "pdc2025_010110",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_010110/discovery/pdc2025_01011010.xes"
+  },
+  {
+    "model": "pdc2025_010110",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_010110/discovery/pdc2025_01011011.xes"
+  },
+  {
+    "model": "pdc2025_010111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010111/discovery/pdc2025_01011100.xes"
+  },
+  {
+    "model": "pdc2025_010111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010111/discovery/pdc2025_01011110.xes"
+  },
+  {
+    "model": "pdc2025_010111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_010111/discovery/pdc2025_01011111.xes"
+  },
+  {
+    "model": "pdc2025_011000",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_011000/discovery/pdc2025_01100000.xes"
+  },
+  {
+    "model": "pdc2025_011000",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_011000/discovery/pdc2025_01100010.xes"
+  },
+  {
+    "model": "pdc2025_011000",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_011000/discovery/pdc2025_01100011.xes"
+  },
+  {
+    "model": "pdc2025_011001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_011001/discovery/pdc2025_01100100.xes"
+  },
+  {
+    "model": "pdc2025_011001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_011001/discovery/pdc2025_01100110.xes"
+  },
+  {
+    "model": "pdc2025_011001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_011001/discovery/pdc2025_01100111.xes"
+  },
+  {
+    "model": "pdc2025_011010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011010/discovery/pdc2025_01101000.xes"
+  },
+  {
+    "model": "pdc2025_011010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011010/discovery/pdc2025_01101010.xes"
+  },
+  {
+    "model": "pdc2025_011010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011010/discovery/pdc2025_01101011.xes"
+  },
+  {
+    "model": "pdc2025_011011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011011/discovery/pdc2025_01101100.xes"
+  },
+  {
+    "model": "pdc2025_011011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011011/discovery/pdc2025_01101110.xes"
+  },
+  {
+    "model": "pdc2025_011011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011011/discovery/pdc2025_01101111.xes"
+  },
+  {
+    "model": "pdc2025_011100",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_011100/discovery/pdc2025_01110000.xes"
+  },
+  {
+    "model": "pdc2025_011100",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_011100/discovery/pdc2025_01110010.xes"
+  },
+  {
+    "model": "pdc2025_011100",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_011100/discovery/pdc2025_01110011.xes"
+  },
+  {
+    "model": "pdc2025_011101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011101/discovery/pdc2025_01110100.xes"
+  },
+  {
+    "model": "pdc2025_011101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011101/discovery/pdc2025_01110110.xes"
+  },
+  {
+    "model": "pdc2025_011101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011101/discovery/pdc2025_01110111.xes"
+  },
+  {
+    "model": "pdc2025_011110",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_011110/discovery/pdc2025_01111000.xes"
+  },
+  {
+    "model": "pdc2025_011110",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_011110/discovery/pdc2025_01111010.xes"
+  },
+  {
+    "model": "pdc2025_011110",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_011110/discovery/pdc2025_01111011.xes"
+  },
+  {
+    "model": "pdc2025_011111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011111/discovery/pdc2025_01111100.xes"
+  },
+  {
+    "model": "pdc2025_011111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011111/discovery/pdc2025_01111110.xes"
+  },
+  {
+    "model": "pdc2025_011111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_011111/discovery/pdc2025_01111111.xes"
+  },
+  {
+    "model": "pdc2025_020000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020000/discovery/pdc2025_02000000.xes"
+  },
+  {
+    "model": "pdc2025_020000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020000/discovery/pdc2025_02000010.xes"
+  },
+  {
+    "model": "pdc2025_020000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020000/discovery/pdc2025_02000011.xes"
+  },
+  {
+    "model": "pdc2025_020001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020001/discovery/pdc2025_02000100.xes"
+  },
+  {
+    "model": "pdc2025_020001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020001/discovery/pdc2025_02000110.xes"
+  },
+  {
+    "model": "pdc2025_020001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020001/discovery/pdc2025_02000111.xes"
+  },
+  {
+    "model": "pdc2025_020010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020010/discovery/pdc2025_02001000.xes"
+  },
+  {
+    "model": "pdc2025_020010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020010/discovery/pdc2025_02001010.xes"
+  },
+  {
+    "model": "pdc2025_020010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020010/discovery/pdc2025_02001011.xes"
+  },
+  {
+    "model": "pdc2025_020011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020011/discovery/pdc2025_02001100.xes"
+  },
+  {
+    "model": "pdc2025_020011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020011/discovery/pdc2025_02001110.xes"
+  },
+  {
+    "model": "pdc2025_020011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020011/discovery/pdc2025_02001111.xes"
+  },
+  {
+    "model": "pdc2025_020100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020100/discovery/pdc2025_02010000.xes"
+  },
+  {
+    "model": "pdc2025_020100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020100/discovery/pdc2025_02010010.xes"
+  },
+  {
+    "model": "pdc2025_020100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020100/discovery/pdc2025_02010011.xes"
+  },
+  {
+    "model": "pdc2025_020101",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_020101/discovery/pdc2025_02010100.xes"
+  },
+  {
+    "model": "pdc2025_020101",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_020101/discovery/pdc2025_02010110.xes"
+  },
+  {
+    "model": "pdc2025_020101",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_020101/discovery/pdc2025_02010111.xes"
+  },
+  {
+    "model": "pdc2025_020110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020110/discovery/pdc2025_02011000.xes"
+  },
+  {
+    "model": "pdc2025_020110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020110/discovery/pdc2025_02011010.xes"
+  },
+  {
+    "model": "pdc2025_020110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020110/discovery/pdc2025_02011011.xes"
+  },
+  {
+    "model": "pdc2025_020111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020111/discovery/pdc2025_02011100.xes"
+  },
+  {
+    "model": "pdc2025_020111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020111/discovery/pdc2025_02011110.xes"
+  },
+  {
+    "model": "pdc2025_020111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_020111/discovery/pdc2025_02011111.xes"
+  },
+  {
+    "model": "pdc2025_021000",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_021000/discovery/pdc2025_02100000.xes"
+  },
+  {
+    "model": "pdc2025_021000",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_021000/discovery/pdc2025_02100010.xes"
+  },
+  {
+    "model": "pdc2025_021000",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_021000/discovery/pdc2025_02100011.xes"
+  },
+  {
+    "model": "pdc2025_021001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021001/discovery/pdc2025_02100100.xes"
+  },
+  {
+    "model": "pdc2025_021001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021001/discovery/pdc2025_02100110.xes"
+  },
+  {
+    "model": "pdc2025_021001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021001/discovery/pdc2025_02100111.xes"
+  },
+  {
+    "model": "pdc2025_021010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021010/discovery/pdc2025_02101000.xes"
+  },
+  {
+    "model": "pdc2025_021010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021010/discovery/pdc2025_02101010.xes"
+  },
+  {
+    "model": "pdc2025_021010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021010/discovery/pdc2025_02101011.xes"
+  },
+  {
+    "model": "pdc2025_021011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021011/discovery/pdc2025_02101100.xes"
+  },
+  {
+    "model": "pdc2025_021011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021011/discovery/pdc2025_02101110.xes"
+  },
+  {
+    "model": "pdc2025_021011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021011/discovery/pdc2025_02101111.xes"
+  },
+  {
+    "model": "pdc2025_021100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021100/discovery/pdc2025_02110000.xes"
+  },
+  {
+    "model": "pdc2025_021100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021100/discovery/pdc2025_02110010.xes"
+  },
+  {
+    "model": "pdc2025_021100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021100/discovery/pdc2025_02110011.xes"
+  },
+  {
+    "model": "pdc2025_021101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021101/discovery/pdc2025_02110100.xes"
+  },
+  {
+    "model": "pdc2025_021101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021101/discovery/pdc2025_02110110.xes"
+  },
+  {
+    "model": "pdc2025_021101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021101/discovery/pdc2025_02110111.xes"
+  },
+  {
+    "model": "pdc2025_021110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021110/discovery/pdc2025_02111000.xes"
+  },
+  {
+    "model": "pdc2025_021110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021110/discovery/pdc2025_02111010.xes"
+  },
+  {
+    "model": "pdc2025_021110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021110/discovery/pdc2025_02111011.xes"
+  },
+  {
+    "model": "pdc2025_021111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021111/discovery/pdc2025_02111100.xes"
+  },
+  {
+    "model": "pdc2025_021111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021111/discovery/pdc2025_02111110.xes"
+  },
+  {
+    "model": "pdc2025_021111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_021111/discovery/pdc2025_02111111.xes"
+  },
+  {
+    "model": "pdc2025_100000",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_100000/discovery/pdc2025_10000000.xes"
+  },
+  {
+    "model": "pdc2025_100000",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_100000/discovery/pdc2025_10000010.xes"
+  },
+  {
+    "model": "pdc2025_100000",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_100000/discovery/pdc2025_10000011.xes"
+  },
+  {
+    "model": "pdc2025_100001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100001/discovery/pdc2025_10000100.xes"
+  },
+  {
+    "model": "pdc2025_100001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100001/discovery/pdc2025_10000110.xes"
+  },
+  {
+    "model": "pdc2025_100001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100001/discovery/pdc2025_10000111.xes"
+  },
+  {
+    "model": "pdc2025_100010",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_100010/discovery/pdc2025_10001000.xes"
+  },
+  {
+    "model": "pdc2025_100010",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_100010/discovery/pdc2025_10001010.xes"
+  },
+  {
+    "model": "pdc2025_100010",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_100010/discovery/pdc2025_10001011.xes"
+  },
+  {
+    "model": "pdc2025_100011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_100011/discovery/pdc2025_10001100.xes"
+  },
+  {
+    "model": "pdc2025_100011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_100011/discovery/pdc2025_10001110.xes"
+  },
+  {
+    "model": "pdc2025_100011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_100011/discovery/pdc2025_10001111.xes"
+  },
+  {
+    "model": "pdc2025_100100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100100/discovery/pdc2025_10010000.xes"
+  },
+  {
+    "model": "pdc2025_100100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100100/discovery/pdc2025_10010010.xes"
+  },
+  {
+    "model": "pdc2025_100100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100100/discovery/pdc2025_10010011.xes"
+  },
+  {
+    "model": "pdc2025_100101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100101/discovery/pdc2025_10010100.xes"
+  },
+  {
+    "model": "pdc2025_100101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100101/discovery/pdc2025_10010110.xes"
+  },
+  {
+    "model": "pdc2025_100101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100101/discovery/pdc2025_10010111.xes"
+  },
+  {
+    "model": "pdc2025_100110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100110/discovery/pdc2025_10011000.xes"
+  },
+  {
+    "model": "pdc2025_100110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100110/discovery/pdc2025_10011010.xes"
+  },
+  {
+    "model": "pdc2025_100110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_100110/discovery/pdc2025_10011011.xes"
+  },
+  {
+    "model": "pdc2025_100111",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_100111/discovery/pdc2025_10011100.xes"
+  },
+  {
+    "model": "pdc2025_100111",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_100111/discovery/pdc2025_10011110.xes"
+  },
+  {
+    "model": "pdc2025_100111",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_100111/discovery/pdc2025_10011111.xes"
+  },
+  {
+    "model": "pdc2025_101000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101000/discovery/pdc2025_10100000.xes"
+  },
+  {
+    "model": "pdc2025_101000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101000/discovery/pdc2025_10100010.xes"
+  },
+  {
+    "model": "pdc2025_101000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101000/discovery/pdc2025_10100011.xes"
+  },
+  {
+    "model": "pdc2025_101001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101001/discovery/pdc2025_10100100.xes"
+  },
+  {
+    "model": "pdc2025_101001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101001/discovery/pdc2025_10100110.xes"
+  },
+  {
+    "model": "pdc2025_101001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101001/discovery/pdc2025_10100111.xes"
+  },
+  {
+    "model": "pdc2025_101010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101010/discovery/pdc2025_10101000.xes"
+  },
+  {
+    "model": "pdc2025_101010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101010/discovery/pdc2025_10101010.xes"
+  },
+  {
+    "model": "pdc2025_101010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101010/discovery/pdc2025_10101011.xes"
+  },
+  {
+    "model": "pdc2025_101011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_101011/discovery/pdc2025_10101100.xes"
+  },
+  {
+    "model": "pdc2025_101011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_101011/discovery/pdc2025_10101110.xes"
+  },
+  {
+    "model": "pdc2025_101011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_101011/discovery/pdc2025_10101111.xes"
+  },
+  {
+    "model": "pdc2025_101100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101100/discovery/pdc2025_10110000.xes"
+  },
+  {
+    "model": "pdc2025_101100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101100/discovery/pdc2025_10110010.xes"
+  },
+  {
+    "model": "pdc2025_101100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101100/discovery/pdc2025_10110011.xes"
+  },
+  {
+    "model": "pdc2025_101101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101101/discovery/pdc2025_10110100.xes"
+  },
+  {
+    "model": "pdc2025_101101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101101/discovery/pdc2025_10110110.xes"
+  },
+  {
+    "model": "pdc2025_101101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101101/discovery/pdc2025_10110111.xes"
+  },
+  {
+    "model": "pdc2025_101110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101110/discovery/pdc2025_10111000.xes"
+  },
+  {
+    "model": "pdc2025_101110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101110/discovery/pdc2025_10111010.xes"
+  },
+  {
+    "model": "pdc2025_101110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101110/discovery/pdc2025_10111011.xes"
+  },
+  {
+    "model": "pdc2025_101111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101111/discovery/pdc2025_10111100.xes"
+  },
+  {
+    "model": "pdc2025_101111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101111/discovery/pdc2025_10111110.xes"
+  },
+  {
+    "model": "pdc2025_101111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_101111/discovery/pdc2025_10111111.xes"
+  },
+  {
+    "model": "pdc2025_110000",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_110000/discovery/pdc2025_11000000.xes"
+  },
+  {
+    "model": "pdc2025_110000",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_110000/discovery/pdc2025_11000010.xes"
+  },
+  {
+    "model": "pdc2025_110000",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_110000/discovery/pdc2025_11000011.xes"
+  },
+  {
+    "model": "pdc2025_110001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110001/discovery/pdc2025_11000100.xes"
+  },
+  {
+    "model": "pdc2025_110001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110001/discovery/pdc2025_11000110.xes"
+  },
+  {
+    "model": "pdc2025_110001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110001/discovery/pdc2025_11000111.xes"
+  },
+  {
+    "model": "pdc2025_110010",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_110010/discovery/pdc2025_11001000.xes"
+  },
+  {
+    "model": "pdc2025_110010",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_110010/discovery/pdc2025_11001010.xes"
+  },
+  {
+    "model": "pdc2025_110010",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_110010/discovery/pdc2025_11001011.xes"
+  },
+  {
+    "model": "pdc2025_110011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110011/discovery/pdc2025_11001100.xes"
+  },
+  {
+    "model": "pdc2025_110011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110011/discovery/pdc2025_11001110.xes"
+  },
+  {
+    "model": "pdc2025_110011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110011/discovery/pdc2025_11001111.xes"
+  },
+  {
+    "model": "pdc2025_110100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110100/discovery/pdc2025_11010000.xes"
+  },
+  {
+    "model": "pdc2025_110100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110100/discovery/pdc2025_11010010.xes"
+  },
+  {
+    "model": "pdc2025_110100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110100/discovery/pdc2025_11010011.xes"
+  },
+  {
+    "model": "pdc2025_110101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110101/discovery/pdc2025_11010100.xes"
+  },
+  {
+    "model": "pdc2025_110101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110101/discovery/pdc2025_11010110.xes"
+  },
+  {
+    "model": "pdc2025_110101",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110101/discovery/pdc2025_11010111.xes"
+  },
+  {
+    "model": "pdc2025_110110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110110/discovery/pdc2025_11011000.xes"
+  },
+  {
+    "model": "pdc2025_110110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110110/discovery/pdc2025_11011010.xes"
+  },
+  {
+    "model": "pdc2025_110110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110110/discovery/pdc2025_11011011.xes"
+  },
+  {
+    "model": "pdc2025_110111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110111/discovery/pdc2025_11011100.xes"
+  },
+  {
+    "model": "pdc2025_110111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110111/discovery/pdc2025_11011110.xes"
+  },
+  {
+    "model": "pdc2025_110111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_110111/discovery/pdc2025_11011111.xes"
+  },
+  {
+    "model": "pdc2025_111000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111000/discovery/pdc2025_11100000.xes"
+  },
+  {
+    "model": "pdc2025_111000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111000/discovery/pdc2025_11100010.xes"
+  },
+  {
+    "model": "pdc2025_111000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111000/discovery/pdc2025_11100011.xes"
+  },
+  {
+    "model": "pdc2025_111001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_111001/discovery/pdc2025_11100100.xes"
+  },
+  {
+    "model": "pdc2025_111001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_111001/discovery/pdc2025_11100110.xes"
+  },
+  {
+    "model": "pdc2025_111001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_111001/discovery/pdc2025_11100111.xes"
+  },
+  {
+    "model": "pdc2025_111010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111010/discovery/pdc2025_11101000.xes"
+  },
+  {
+    "model": "pdc2025_111010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111010/discovery/pdc2025_11101010.xes"
+  },
+  {
+    "model": "pdc2025_111010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111010/discovery/pdc2025_11101011.xes"
+  },
+  {
+    "model": "pdc2025_111011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_111011/discovery/pdc2025_11101100.xes"
+  },
+  {
+    "model": "pdc2025_111011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_111011/discovery/pdc2025_11101110.xes"
+  },
+  {
+    "model": "pdc2025_111011",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_111011/discovery/pdc2025_11101111.xes"
+  },
+  {
+    "model": "pdc2025_111100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111100/discovery/pdc2025_11110000.xes"
+  },
+  {
+    "model": "pdc2025_111100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111100/discovery/pdc2025_11110010.xes"
+  },
+  {
+    "model": "pdc2025_111100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111100/discovery/pdc2025_11110011.xes"
+  },
+  {
+    "model": "pdc2025_111101",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_111101/discovery/pdc2025_11110100.xes"
+  },
+  {
+    "model": "pdc2025_111101",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_111101/discovery/pdc2025_11110110.xes"
+  },
+  {
+    "model": "pdc2025_111101",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_111101/discovery/pdc2025_11110111.xes"
+  },
+  {
+    "model": "pdc2025_111110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111110/discovery/pdc2025_11111000.xes"
+  },
+  {
+    "model": "pdc2025_111110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111110/discovery/pdc2025_11111010.xes"
+  },
+  {
+    "model": "pdc2025_111110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111110/discovery/pdc2025_11111011.xes"
+  },
+  {
+    "model": "pdc2025_111111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111111/discovery/pdc2025_11111100.xes"
+  },
+  {
+    "model": "pdc2025_111111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111111/discovery/pdc2025_11111110.xes"
+  },
+  {
+    "model": "pdc2025_111111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_111111/discovery/pdc2025_11111111.xes"
+  },
+  {
+    "model": "pdc2025_120000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120000/discovery/pdc2025_12000000.xes"
+  },
+  {
+    "model": "pdc2025_120000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120000/discovery/pdc2025_12000010.xes"
+  },
+  {
+    "model": "pdc2025_120000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120000/discovery/pdc2025_12000011.xes"
+  },
+  {
+    "model": "pdc2025_120001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_120001/discovery/pdc2025_12000100.xes"
+  },
+  {
+    "model": "pdc2025_120001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_120001/discovery/pdc2025_12000110.xes"
+  },
+  {
+    "model": "pdc2025_120001",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_120001/discovery/pdc2025_12000111.xes"
+  },
+  {
+    "model": "pdc2025_120010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120010/discovery/pdc2025_12001000.xes"
+  },
+  {
+    "model": "pdc2025_120010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120010/discovery/pdc2025_12001010.xes"
+  },
+  {
+    "model": "pdc2025_120010",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120010/discovery/pdc2025_12001011.xes"
+  },
+  {
+    "model": "pdc2025_120011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120011/discovery/pdc2025_12001100.xes"
+  },
+  {
+    "model": "pdc2025_120011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120011/discovery/pdc2025_12001110.xes"
+  },
+  {
+    "model": "pdc2025_120011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120011/discovery/pdc2025_12001111.xes"
+  },
+  {
+    "model": "pdc2025_120100",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_120100/discovery/pdc2025_12010000.xes"
+  },
+  {
+    "model": "pdc2025_120100",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_120100/discovery/pdc2025_12010010.xes"
+  },
+  {
+    "model": "pdc2025_120100",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_120100/discovery/pdc2025_12010011.xes"
+  },
+  {
+    "model": "pdc2025_120101",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_120101/discovery/pdc2025_12010100.xes"
+  },
+  {
+    "model": "pdc2025_120101",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_120101/discovery/pdc2025_12010110.xes"
+  },
+  {
+    "model": "pdc2025_120101",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_120101/discovery/pdc2025_12010111.xes"
+  },
+  {
+    "model": "pdc2025_120110",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_120110/discovery/pdc2025_12011000.xes"
+  },
+  {
+    "model": "pdc2025_120110",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_120110/discovery/pdc2025_12011010.xes"
+  },
+  {
+    "model": "pdc2025_120110",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_120110/discovery/pdc2025_12011011.xes"
+  },
+  {
+    "model": "pdc2025_120111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120111/discovery/pdc2025_12011100.xes"
+  },
+  {
+    "model": "pdc2025_120111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120111/discovery/pdc2025_12011110.xes"
+  },
+  {
+    "model": "pdc2025_120111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_120111/discovery/pdc2025_12011111.xes"
+  },
+  {
+    "model": "pdc2025_121000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121000/discovery/pdc2025_12100000.xes"
+  },
+  {
+    "model": "pdc2025_121000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121000/discovery/pdc2025_12100010.xes"
+  },
+  {
+    "model": "pdc2025_121000",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121000/discovery/pdc2025_12100011.xes"
+  },
+  {
+    "model": "pdc2025_121001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121001/discovery/pdc2025_12100100.xes"
+  },
+  {
+    "model": "pdc2025_121001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121001/discovery/pdc2025_12100110.xes"
+  },
+  {
+    "model": "pdc2025_121001",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121001/discovery/pdc2025_12100111.xes"
+  },
+  {
+    "model": "pdc2025_121010",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_121010/discovery/pdc2025_12101000.xes"
+  },
+  {
+    "model": "pdc2025_121010",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_121010/discovery/pdc2025_12101010.xes"
+  },
+  {
+    "model": "pdc2025_121010",
+    "split": "test",
+    "role": "discovery",
+    "path": "PDC2025/test/pdc2025_121010/discovery/pdc2025_12101011.xes"
+  },
+  {
+    "model": "pdc2025_121011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121011/discovery/pdc2025_12101100.xes"
+  },
+  {
+    "model": "pdc2025_121011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121011/discovery/pdc2025_12101110.xes"
+  },
+  {
+    "model": "pdc2025_121011",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121011/discovery/pdc2025_12101111.xes"
+  },
+  {
+    "model": "pdc2025_121100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121100/discovery/pdc2025_12110000.xes"
+  },
+  {
+    "model": "pdc2025_121100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121100/discovery/pdc2025_12110010.xes"
+  },
+  {
+    "model": "pdc2025_121100",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121100/discovery/pdc2025_12110011.xes"
+  },
+  {
+    "model": "pdc2025_121101",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_121101/discovery/pdc2025_12110100.xes"
+  },
+  {
+    "model": "pdc2025_121101",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_121101/discovery/pdc2025_12110110.xes"
+  },
+  {
+    "model": "pdc2025_121101",
+    "split": "validation",
+    "role": "discovery",
+    "path": "PDC2025/validation/pdc2025_121101/discovery/pdc2025_12110111.xes"
+  },
+  {
+    "model": "pdc2025_121110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121110/discovery/pdc2025_12111000.xes"
+  },
+  {
+    "model": "pdc2025_121110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121110/discovery/pdc2025_12111010.xes"
+  },
+  {
+    "model": "pdc2025_121110",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121110/discovery/pdc2025_12111011.xes"
+  },
+  {
+    "model": "pdc2025_121111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121111/discovery/pdc2025_12111100.xes"
+  },
+  {
+    "model": "pdc2025_121111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121111/discovery/pdc2025_12111110.xes"
+  },
+  {
+    "model": "pdc2025_121111",
+    "split": "training",
+    "role": "discovery",
+    "path": "PDC2025/training/pdc2025_121111/discovery/pdc2025_12111111.xes"
+  },
+  {
+    "model": "pdc2025_000000",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_000000/evaluation/test/pdc2025_000000.xes"
+  },
+  {
+    "model": "pdc2025_000001",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_000001/evaluation/test/pdc2025_000001.xes"
+  },
+  {
+    "model": "pdc2025_000010",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_000010/evaluation/test/pdc2025_000010.xes"
+  },
+  {
+    "model": "pdc2025_000011",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_000011/evaluation/test/pdc2025_000011.xes"
+  },
+  {
+    "model": "pdc2025_000100",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_000100/evaluation/test/pdc2025_000100.xes"
+  },
+  {
+    "model": "pdc2025_000101",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_000101/evaluation/test/pdc2025_000101.xes"
+  },
+  {
+    "model": "pdc2025_000110",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_000110/evaluation/test/pdc2025_000110.xes"
+  },
+  {
+    "model": "pdc2025_000111",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_000111/evaluation/test/pdc2025_000111.xes"
+  },
+  {
+    "model": "pdc2025_001000",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_001000/evaluation/test/pdc2025_001000.xes"
+  },
+  {
+    "model": "pdc2025_001001",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_001001/evaluation/test/pdc2025_001001.xes"
+  },
+  {
+    "model": "pdc2025_001010",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_001010/evaluation/test/pdc2025_001010.xes"
+  },
+  {
+    "model": "pdc2025_001011",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_001011/evaluation/test/pdc2025_001011.xes"
+  },
+  {
+    "model": "pdc2025_001100",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_001100/evaluation/test/pdc2025_001100.xes"
+  },
+  {
+    "model": "pdc2025_001101",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_001101/evaluation/test/pdc2025_001101.xes"
+  },
+  {
+    "model": "pdc2025_001110",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_001110/evaluation/test/pdc2025_001110.xes"
+  },
+  {
+    "model": "pdc2025_001111",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_001111/evaluation/test/pdc2025_001111.xes"
+  },
+  {
+    "model": "pdc2025_010000",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_010000/evaluation/test/pdc2025_010000.xes"
+  },
+  {
+    "model": "pdc2025_010001",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_010001/evaluation/test/pdc2025_010001.xes"
+  },
+  {
+    "model": "pdc2025_010010",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_010010/evaluation/test/pdc2025_010010.xes"
+  },
+  {
+    "model": "pdc2025_010011",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_010011/evaluation/test/pdc2025_010011.xes"
+  },
+  {
+    "model": "pdc2025_010100",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_010100/evaluation/test/pdc2025_010100.xes"
+  },
+  {
+    "model": "pdc2025_010101",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_010101/evaluation/test/pdc2025_010101.xes"
+  },
+  {
+    "model": "pdc2025_010110",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_010110/evaluation/test/pdc2025_010110.xes"
+  },
+  {
+    "model": "pdc2025_010111",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_010111/evaluation/test/pdc2025_010111.xes"
+  },
+  {
+    "model": "pdc2025_011000",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_011000/evaluation/test/pdc2025_011000.xes"
+  },
+  {
+    "model": "pdc2025_011001",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_011001/evaluation/test/pdc2025_011001.xes"
+  },
+  {
+    "model": "pdc2025_011010",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_011010/evaluation/test/pdc2025_011010.xes"
+  },
+  {
+    "model": "pdc2025_011011",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_011011/evaluation/test/pdc2025_011011.xes"
+  },
+  {
+    "model": "pdc2025_011100",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_011100/evaluation/test/pdc2025_011100.xes"
+  },
+  {
+    "model": "pdc2025_011101",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_011101/evaluation/test/pdc2025_011101.xes"
+  },
+  {
+    "model": "pdc2025_011110",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_011110/evaluation/test/pdc2025_011110.xes"
+  },
+  {
+    "model": "pdc2025_011111",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_011111/evaluation/test/pdc2025_011111.xes"
+  },
+  {
+    "model": "pdc2025_020000",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_020000/evaluation/test/pdc2025_020000.xes"
+  },
+  {
+    "model": "pdc2025_020001",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_020001/evaluation/test/pdc2025_020001.xes"
+  },
+  {
+    "model": "pdc2025_020010",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_020010/evaluation/test/pdc2025_020010.xes"
+  },
+  {
+    "model": "pdc2025_020011",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_020011/evaluation/test/pdc2025_020011.xes"
+  },
+  {
+    "model": "pdc2025_020100",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_020100/evaluation/test/pdc2025_020100.xes"
+  },
+  {
+    "model": "pdc2025_020101",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_020101/evaluation/test/pdc2025_020101.xes"
+  },
+  {
+    "model": "pdc2025_020110",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_020110/evaluation/test/pdc2025_020110.xes"
+  },
+  {
+    "model": "pdc2025_020111",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_020111/evaluation/test/pdc2025_020111.xes"
+  },
+  {
+    "model": "pdc2025_021000",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_021000/evaluation/test/pdc2025_021000.xes"
+  },
+  {
+    "model": "pdc2025_021001",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_021001/evaluation/test/pdc2025_021001.xes"
+  },
+  {
+    "model": "pdc2025_021010",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_021010/evaluation/test/pdc2025_021010.xes"
+  },
+  {
+    "model": "pdc2025_021011",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_021011/evaluation/test/pdc2025_021011.xes"
+  },
+  {
+    "model": "pdc2025_021100",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_021100/evaluation/test/pdc2025_021100.xes"
+  },
+  {
+    "model": "pdc2025_021101",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_021101/evaluation/test/pdc2025_021101.xes"
+  },
+  {
+    "model": "pdc2025_021110",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_021110/evaluation/test/pdc2025_021110.xes"
+  },
+  {
+    "model": "pdc2025_021111",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_021111/evaluation/test/pdc2025_021111.xes"
+  },
+  {
+    "model": "pdc2025_100000",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_100000/evaluation/test/pdc2025_100000.xes"
+  },
+  {
+    "model": "pdc2025_100001",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_100001/evaluation/test/pdc2025_100001.xes"
+  },
+  {
+    "model": "pdc2025_100010",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_100010/evaluation/test/pdc2025_100010.xes"
+  },
+  {
+    "model": "pdc2025_100011",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_100011/evaluation/test/pdc2025_100011.xes"
+  },
+  {
+    "model": "pdc2025_100100",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_100100/evaluation/test/pdc2025_100100.xes"
+  },
+  {
+    "model": "pdc2025_100101",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_100101/evaluation/test/pdc2025_100101.xes"
+  },
+  {
+    "model": "pdc2025_100110",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_100110/evaluation/test/pdc2025_100110.xes"
+  },
+  {
+    "model": "pdc2025_100111",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_100111/evaluation/test/pdc2025_100111.xes"
+  },
+  {
+    "model": "pdc2025_101000",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_101000/evaluation/test/pdc2025_101000.xes"
+  },
+  {
+    "model": "pdc2025_101001",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_101001/evaluation/test/pdc2025_101001.xes"
+  },
+  {
+    "model": "pdc2025_101010",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_101010/evaluation/test/pdc2025_101010.xes"
+  },
+  {
+    "model": "pdc2025_101011",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_101011/evaluation/test/pdc2025_101011.xes"
+  },
+  {
+    "model": "pdc2025_101100",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_101100/evaluation/test/pdc2025_101100.xes"
+  },
+  {
+    "model": "pdc2025_101101",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_101101/evaluation/test/pdc2025_101101.xes"
+  },
+  {
+    "model": "pdc2025_101110",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_101110/evaluation/test/pdc2025_101110.xes"
+  },
+  {
+    "model": "pdc2025_101111",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_101111/evaluation/test/pdc2025_101111.xes"
+  },
+  {
+    "model": "pdc2025_110000",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_110000/evaluation/test/pdc2025_110000.xes"
+  },
+  {
+    "model": "pdc2025_110001",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_110001/evaluation/test/pdc2025_110001.xes"
+  },
+  {
+    "model": "pdc2025_110010",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_110010/evaluation/test/pdc2025_110010.xes"
+  },
+  {
+    "model": "pdc2025_110011",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_110011/evaluation/test/pdc2025_110011.xes"
+  },
+  {
+    "model": "pdc2025_110100",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_110100/evaluation/test/pdc2025_110100.xes"
+  },
+  {
+    "model": "pdc2025_110101",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_110101/evaluation/test/pdc2025_110101.xes"
+  },
+  {
+    "model": "pdc2025_110110",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_110110/evaluation/test/pdc2025_110110.xes"
+  },
+  {
+    "model": "pdc2025_110111",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_110111/evaluation/test/pdc2025_110111.xes"
+  },
+  {
+    "model": "pdc2025_111000",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_111000/evaluation/test/pdc2025_111000.xes"
+  },
+  {
+    "model": "pdc2025_111001",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_111001/evaluation/test/pdc2025_111001.xes"
+  },
+  {
+    "model": "pdc2025_111010",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_111010/evaluation/test/pdc2025_111010.xes"
+  },
+  {
+    "model": "pdc2025_111011",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_111011/evaluation/test/pdc2025_111011.xes"
+  },
+  {
+    "model": "pdc2025_111100",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_111100/evaluation/test/pdc2025_111100.xes"
+  },
+  {
+    "model": "pdc2025_111101",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_111101/evaluation/test/pdc2025_111101.xes"
+  },
+  {
+    "model": "pdc2025_111110",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_111110/evaluation/test/pdc2025_111110.xes"
+  },
+  {
+    "model": "pdc2025_111111",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_111111/evaluation/test/pdc2025_111111.xes"
+  },
+  {
+    "model": "pdc2025_120000",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_120000/evaluation/test/pdc2025_120000.xes"
+  },
+  {
+    "model": "pdc2025_120001",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_120001/evaluation/test/pdc2025_120001.xes"
+  },
+  {
+    "model": "pdc2025_120010",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_120010/evaluation/test/pdc2025_120010.xes"
+  },
+  {
+    "model": "pdc2025_120011",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_120011/evaluation/test/pdc2025_120011.xes"
+  },
+  {
+    "model": "pdc2025_120100",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_120100/evaluation/test/pdc2025_120100.xes"
+  },
+  {
+    "model": "pdc2025_120101",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_120101/evaluation/test/pdc2025_120101.xes"
+  },
+  {
+    "model": "pdc2025_120110",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_120110/evaluation/test/pdc2025_120110.xes"
+  },
+  {
+    "model": "pdc2025_120111",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_120111/evaluation/test/pdc2025_120111.xes"
+  },
+  {
+    "model": "pdc2025_121000",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_121000/evaluation/test/pdc2025_121000.xes"
+  },
+  {
+    "model": "pdc2025_121001",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_121001/evaluation/test/pdc2025_121001.xes"
+  },
+  {
+    "model": "pdc2025_121010",
+    "split": "test",
+    "role": "evaluation/test",
+    "path": "PDC2025/test/pdc2025_121010/evaluation/test/pdc2025_121010.xes"
+  },
+  {
+    "model": "pdc2025_121011",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_121011/evaluation/test/pdc2025_121011.xes"
+  },
+  {
+    "model": "pdc2025_121100",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_121100/evaluation/test/pdc2025_121100.xes"
+  },
+  {
+    "model": "pdc2025_121101",
+    "split": "validation",
+    "role": "evaluation/test",
+    "path": "PDC2025/validation/pdc2025_121101/evaluation/test/pdc2025_121101.xes"
+  },
+  {
+    "model": "pdc2025_121110",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_121110/evaluation/test/pdc2025_121110.xes"
+  },
+  {
+    "model": "pdc2025_121111",
+    "split": "training",
+    "role": "evaluation/test",
+    "path": "PDC2025/training/pdc2025_121111/evaluation/test/pdc2025_121111.xes"
+  },
+  {
+    "model": "pdc2025_000000",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_000000/evaluation/base/pdc2025_000000.xes"
+  },
+  {
+    "model": "pdc2025_000001",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_000001/evaluation/base/pdc2025_000001.xes"
+  },
+  {
+    "model": "pdc2025_000010",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_000010/evaluation/base/pdc2025_000010.xes"
+  },
+  {
+    "model": "pdc2025_000011",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_000011/evaluation/base/pdc2025_000011.xes"
+  },
+  {
+    "model": "pdc2025_000100",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_000100/evaluation/base/pdc2025_000100.xes"
+  },
+  {
+    "model": "pdc2025_000101",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_000101/evaluation/base/pdc2025_000101.xes"
+  },
+  {
+    "model": "pdc2025_000110",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_000110/evaluation/base/pdc2025_000110.xes"
+  },
+  {
+    "model": "pdc2025_000111",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_000111/evaluation/base/pdc2025_000111.xes"
+  },
+  {
+    "model": "pdc2025_001000",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_001000/evaluation/base/pdc2025_001000.xes"
+  },
+  {
+    "model": "pdc2025_001001",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_001001/evaluation/base/pdc2025_001001.xes"
+  },
+  {
+    "model": "pdc2025_001010",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_001010/evaluation/base/pdc2025_001010.xes"
+  },
+  {
+    "model": "pdc2025_001011",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_001011/evaluation/base/pdc2025_001011.xes"
+  },
+  {
+    "model": "pdc2025_001100",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_001100/evaluation/base/pdc2025_001100.xes"
+  },
+  {
+    "model": "pdc2025_001101",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_001101/evaluation/base/pdc2025_001101.xes"
+  },
+  {
+    "model": "pdc2025_001110",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_001110/evaluation/base/pdc2025_001110.xes"
+  },
+  {
+    "model": "pdc2025_001111",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_001111/evaluation/base/pdc2025_001111.xes"
+  },
+  {
+    "model": "pdc2025_010000",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_010000/evaluation/base/pdc2025_010000.xes"
+  },
+  {
+    "model": "pdc2025_010001",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_010001/evaluation/base/pdc2025_010001.xes"
+  },
+  {
+    "model": "pdc2025_010010",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_010010/evaluation/base/pdc2025_010010.xes"
+  },
+  {
+    "model": "pdc2025_010011",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_010011/evaluation/base/pdc2025_010011.xes"
+  },
+  {
+    "model": "pdc2025_010100",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_010100/evaluation/base/pdc2025_010100.xes"
+  },
+  {
+    "model": "pdc2025_010101",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_010101/evaluation/base/pdc2025_010101.xes"
+  },
+  {
+    "model": "pdc2025_010110",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_010110/evaluation/base/pdc2025_010110.xes"
+  },
+  {
+    "model": "pdc2025_010111",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_010111/evaluation/base/pdc2025_010111.xes"
+  },
+  {
+    "model": "pdc2025_011000",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_011000/evaluation/base/pdc2025_011000.xes"
+  },
+  {
+    "model": "pdc2025_011001",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_011001/evaluation/base/pdc2025_011001.xes"
+  },
+  {
+    "model": "pdc2025_011010",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_011010/evaluation/base/pdc2025_011010.xes"
+  },
+  {
+    "model": "pdc2025_011011",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_011011/evaluation/base/pdc2025_011011.xes"
+  },
+  {
+    "model": "pdc2025_011100",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_011100/evaluation/base/pdc2025_011100.xes"
+  },
+  {
+    "model": "pdc2025_011101",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_011101/evaluation/base/pdc2025_011101.xes"
+  },
+  {
+    "model": "pdc2025_011110",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_011110/evaluation/base/pdc2025_011110.xes"
+  },
+  {
+    "model": "pdc2025_011111",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_011111/evaluation/base/pdc2025_011111.xes"
+  },
+  {
+    "model": "pdc2025_020000",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_020000/evaluation/base/pdc2025_020000.xes"
+  },
+  {
+    "model": "pdc2025_020001",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_020001/evaluation/base/pdc2025_020001.xes"
+  },
+  {
+    "model": "pdc2025_020010",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_020010/evaluation/base/pdc2025_020010.xes"
+  },
+  {
+    "model": "pdc2025_020011",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_020011/evaluation/base/pdc2025_020011.xes"
+  },
+  {
+    "model": "pdc2025_020100",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_020100/evaluation/base/pdc2025_020100.xes"
+  },
+  {
+    "model": "pdc2025_020101",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_020101/evaluation/base/pdc2025_020101.xes"
+  },
+  {
+    "model": "pdc2025_020110",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_020110/evaluation/base/pdc2025_020110.xes"
+  },
+  {
+    "model": "pdc2025_020111",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_020111/evaluation/base/pdc2025_020111.xes"
+  },
+  {
+    "model": "pdc2025_021000",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_021000/evaluation/base/pdc2025_021000.xes"
+  },
+  {
+    "model": "pdc2025_021001",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_021001/evaluation/base/pdc2025_021001.xes"
+  },
+  {
+    "model": "pdc2025_021010",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_021010/evaluation/base/pdc2025_021010.xes"
+  },
+  {
+    "model": "pdc2025_021011",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_021011/evaluation/base/pdc2025_021011.xes"
+  },
+  {
+    "model": "pdc2025_021100",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_021100/evaluation/base/pdc2025_021100.xes"
+  },
+  {
+    "model": "pdc2025_021101",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_021101/evaluation/base/pdc2025_021101.xes"
+  },
+  {
+    "model": "pdc2025_021110",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_021110/evaluation/base/pdc2025_021110.xes"
+  },
+  {
+    "model": "pdc2025_021111",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_021111/evaluation/base/pdc2025_021111.xes"
+  },
+  {
+    "model": "pdc2025_100000",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_100000/evaluation/base/pdc2025_100000.xes"
+  },
+  {
+    "model": "pdc2025_100001",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_100001/evaluation/base/pdc2025_100001.xes"
+  },
+  {
+    "model": "pdc2025_100010",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_100010/evaluation/base/pdc2025_100010.xes"
+  },
+  {
+    "model": "pdc2025_100011",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_100011/evaluation/base/pdc2025_100011.xes"
+  },
+  {
+    "model": "pdc2025_100100",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_100100/evaluation/base/pdc2025_100100.xes"
+  },
+  {
+    "model": "pdc2025_100101",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_100101/evaluation/base/pdc2025_100101.xes"
+  },
+  {
+    "model": "pdc2025_100110",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_100110/evaluation/base/pdc2025_100110.xes"
+  },
+  {
+    "model": "pdc2025_100111",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_100111/evaluation/base/pdc2025_100111.xes"
+  },
+  {
+    "model": "pdc2025_101000",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_101000/evaluation/base/pdc2025_101000.xes"
+  },
+  {
+    "model": "pdc2025_101001",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_101001/evaluation/base/pdc2025_101001.xes"
+  },
+  {
+    "model": "pdc2025_101010",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_101010/evaluation/base/pdc2025_101010.xes"
+  },
+  {
+    "model": "pdc2025_101011",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_101011/evaluation/base/pdc2025_101011.xes"
+  },
+  {
+    "model": "pdc2025_101100",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_101100/evaluation/base/pdc2025_101100.xes"
+  },
+  {
+    "model": "pdc2025_101101",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_101101/evaluation/base/pdc2025_101101.xes"
+  },
+  {
+    "model": "pdc2025_101110",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_101110/evaluation/base/pdc2025_101110.xes"
+  },
+  {
+    "model": "pdc2025_101111",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_101111/evaluation/base/pdc2025_101111.xes"
+  },
+  {
+    "model": "pdc2025_110000",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_110000/evaluation/base/pdc2025_110000.xes"
+  },
+  {
+    "model": "pdc2025_110001",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_110001/evaluation/base/pdc2025_110001.xes"
+  },
+  {
+    "model": "pdc2025_110010",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_110010/evaluation/base/pdc2025_110010.xes"
+  },
+  {
+    "model": "pdc2025_110011",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_110011/evaluation/base/pdc2025_110011.xes"
+  },
+  {
+    "model": "pdc2025_110100",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_110100/evaluation/base/pdc2025_110100.xes"
+  },
+  {
+    "model": "pdc2025_110101",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_110101/evaluation/base/pdc2025_110101.xes"
+  },
+  {
+    "model": "pdc2025_110110",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_110110/evaluation/base/pdc2025_110110.xes"
+  },
+  {
+    "model": "pdc2025_110111",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_110111/evaluation/base/pdc2025_110111.xes"
+  },
+  {
+    "model": "pdc2025_111000",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_111000/evaluation/base/pdc2025_111000.xes"
+  },
+  {
+    "model": "pdc2025_111001",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_111001/evaluation/base/pdc2025_111001.xes"
+  },
+  {
+    "model": "pdc2025_111010",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_111010/evaluation/base/pdc2025_111010.xes"
+  },
+  {
+    "model": "pdc2025_111011",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_111011/evaluation/base/pdc2025_111011.xes"
+  },
+  {
+    "model": "pdc2025_111100",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_111100/evaluation/base/pdc2025_111100.xes"
+  },
+  {
+    "model": "pdc2025_111101",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_111101/evaluation/base/pdc2025_111101.xes"
+  },
+  {
+    "model": "pdc2025_111110",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_111110/evaluation/base/pdc2025_111110.xes"
+  },
+  {
+    "model": "pdc2025_111111",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_111111/evaluation/base/pdc2025_111111.xes"
+  },
+  {
+    "model": "pdc2025_120000",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_120000/evaluation/base/pdc2025_120000.xes"
+  },
+  {
+    "model": "pdc2025_120001",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_120001/evaluation/base/pdc2025_120001.xes"
+  },
+  {
+    "model": "pdc2025_120010",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_120010/evaluation/base/pdc2025_120010.xes"
+  },
+  {
+    "model": "pdc2025_120011",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_120011/evaluation/base/pdc2025_120011.xes"
+  },
+  {
+    "model": "pdc2025_120100",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_120100/evaluation/base/pdc2025_120100.xes"
+  },
+  {
+    "model": "pdc2025_120101",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_120101/evaluation/base/pdc2025_120101.xes"
+  },
+  {
+    "model": "pdc2025_120110",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_120110/evaluation/base/pdc2025_120110.xes"
+  },
+  {
+    "model": "pdc2025_120111",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_120111/evaluation/base/pdc2025_120111.xes"
+  },
+  {
+    "model": "pdc2025_121000",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_121000/evaluation/base/pdc2025_121000.xes"
+  },
+  {
+    "model": "pdc2025_121001",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_121001/evaluation/base/pdc2025_121001.xes"
+  },
+  {
+    "model": "pdc2025_121010",
+    "split": "test",
+    "role": "evaluation/base",
+    "path": "PDC2025/test/pdc2025_121010/evaluation/base/pdc2025_121010.xes"
+  },
+  {
+    "model": "pdc2025_121011",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_121011/evaluation/base/pdc2025_121011.xes"
+  },
+  {
+    "model": "pdc2025_121100",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_121100/evaluation/base/pdc2025_121100.xes"
+  },
+  {
+    "model": "pdc2025_121101",
+    "split": "validation",
+    "role": "evaluation/base",
+    "path": "PDC2025/validation/pdc2025_121101/evaluation/base/pdc2025_121101.xes"
+  },
+  {
+    "model": "pdc2025_121110",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_121110/evaluation/base/pdc2025_121110.xes"
+  },
+  {
+    "model": "pdc2025_121111",
+    "split": "training",
+    "role": "evaluation/base",
+    "path": "PDC2025/training/pdc2025_121111/evaluation/base/pdc2025_121111.xes"
+  },
+  {
+    "model": "pdc2025_000000",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_000000/evaluation/ground_truth/pdc2025_000000.xes"
+  },
+  {
+    "model": "pdc2025_000001",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_000001/evaluation/ground_truth/pdc2025_000001.xes"
+  },
+  {
+    "model": "pdc2025_000010",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_000010/evaluation/ground_truth/pdc2025_000010.xes"
+  },
+  {
+    "model": "pdc2025_000011",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_000011/evaluation/ground_truth/pdc2025_000011.xes"
+  },
+  {
+    "model": "pdc2025_000100",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_000100/evaluation/ground_truth/pdc2025_000100.xes"
+  },
+  {
+    "model": "pdc2025_000101",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_000101/evaluation/ground_truth/pdc2025_000101.xes"
+  },
+  {
+    "model": "pdc2025_000110",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_000110/evaluation/ground_truth/pdc2025_000110.xes"
+  },
+  {
+    "model": "pdc2025_000111",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_000111/evaluation/ground_truth/pdc2025_000111.xes"
+  },
+  {
+    "model": "pdc2025_001000",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_001000/evaluation/ground_truth/pdc2025_001000.xes"
+  },
+  {
+    "model": "pdc2025_001001",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_001001/evaluation/ground_truth/pdc2025_001001.xes"
+  },
+  {
+    "model": "pdc2025_001010",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_001010/evaluation/ground_truth/pdc2025_001010.xes"
+  },
+  {
+    "model": "pdc2025_001011",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_001011/evaluation/ground_truth/pdc2025_001011.xes"
+  },
+  {
+    "model": "pdc2025_001100",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_001100/evaluation/ground_truth/pdc2025_001100.xes"
+  },
+  {
+    "model": "pdc2025_001101",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_001101/evaluation/ground_truth/pdc2025_001101.xes"
+  },
+  {
+    "model": "pdc2025_001110",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_001110/evaluation/ground_truth/pdc2025_001110.xes"
+  },
+  {
+    "model": "pdc2025_001111",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_001111/evaluation/ground_truth/pdc2025_001111.xes"
+  },
+  {
+    "model": "pdc2025_010000",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_010000/evaluation/ground_truth/pdc2025_010000.xes"
+  },
+  {
+    "model": "pdc2025_010001",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_010001/evaluation/ground_truth/pdc2025_010001.xes"
+  },
+  {
+    "model": "pdc2025_010010",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_010010/evaluation/ground_truth/pdc2025_010010.xes"
+  },
+  {
+    "model": "pdc2025_010011",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_010011/evaluation/ground_truth/pdc2025_010011.xes"
+  },
+  {
+    "model": "pdc2025_010100",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_010100/evaluation/ground_truth/pdc2025_010100.xes"
+  },
+  {
+    "model": "pdc2025_010101",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_010101/evaluation/ground_truth/pdc2025_010101.xes"
+  },
+  {
+    "model": "pdc2025_010110",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_010110/evaluation/ground_truth/pdc2025_010110.xes"
+  },
+  {
+    "model": "pdc2025_010111",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_010111/evaluation/ground_truth/pdc2025_010111.xes"
+  },
+  {
+    "model": "pdc2025_011000",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_011000/evaluation/ground_truth/pdc2025_011000.xes"
+  },
+  {
+    "model": "pdc2025_011001",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_011001/evaluation/ground_truth/pdc2025_011001.xes"
+  },
+  {
+    "model": "pdc2025_011010",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_011010/evaluation/ground_truth/pdc2025_011010.xes"
+  },
+  {
+    "model": "pdc2025_011011",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_011011/evaluation/ground_truth/pdc2025_011011.xes"
+  },
+  {
+    "model": "pdc2025_011100",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_011100/evaluation/ground_truth/pdc2025_011100.xes"
+  },
+  {
+    "model": "pdc2025_011101",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_011101/evaluation/ground_truth/pdc2025_011101.xes"
+  },
+  {
+    "model": "pdc2025_011110",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_011110/evaluation/ground_truth/pdc2025_011110.xes"
+  },
+  {
+    "model": "pdc2025_011111",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_011111/evaluation/ground_truth/pdc2025_011111.xes"
+  },
+  {
+    "model": "pdc2025_020000",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_020000/evaluation/ground_truth/pdc2025_020000.xes"
+  },
+  {
+    "model": "pdc2025_020001",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_020001/evaluation/ground_truth/pdc2025_020001.xes"
+  },
+  {
+    "model": "pdc2025_020010",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_020010/evaluation/ground_truth/pdc2025_020010.xes"
+  },
+  {
+    "model": "pdc2025_020011",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_020011/evaluation/ground_truth/pdc2025_020011.xes"
+  },
+  {
+    "model": "pdc2025_020100",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_020100/evaluation/ground_truth/pdc2025_020100.xes"
+  },
+  {
+    "model": "pdc2025_020101",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_020101/evaluation/ground_truth/pdc2025_020101.xes"
+  },
+  {
+    "model": "pdc2025_020110",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_020110/evaluation/ground_truth/pdc2025_020110.xes"
+  },
+  {
+    "model": "pdc2025_020111",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_020111/evaluation/ground_truth/pdc2025_020111.xes"
+  },
+  {
+    "model": "pdc2025_021000",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_021000/evaluation/ground_truth/pdc2025_021000.xes"
+  },
+  {
+    "model": "pdc2025_021001",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_021001/evaluation/ground_truth/pdc2025_021001.xes"
+  },
+  {
+    "model": "pdc2025_021010",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_021010/evaluation/ground_truth/pdc2025_021010.xes"
+  },
+  {
+    "model": "pdc2025_021011",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_021011/evaluation/ground_truth/pdc2025_021011.xes"
+  },
+  {
+    "model": "pdc2025_021100",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_021100/evaluation/ground_truth/pdc2025_021100.xes"
+  },
+  {
+    "model": "pdc2025_021101",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_021101/evaluation/ground_truth/pdc2025_021101.xes"
+  },
+  {
+    "model": "pdc2025_021110",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_021110/evaluation/ground_truth/pdc2025_021110.xes"
+  },
+  {
+    "model": "pdc2025_021111",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_021111/evaluation/ground_truth/pdc2025_021111.xes"
+  },
+  {
+    "model": "pdc2025_100000",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_100000/evaluation/ground_truth/pdc2025_100000.xes"
+  },
+  {
+    "model": "pdc2025_100001",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_100001/evaluation/ground_truth/pdc2025_100001.xes"
+  },
+  {
+    "model": "pdc2025_100010",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_100010/evaluation/ground_truth/pdc2025_100010.xes"
+  },
+  {
+    "model": "pdc2025_100011",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_100011/evaluation/ground_truth/pdc2025_100011.xes"
+  },
+  {
+    "model": "pdc2025_100100",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_100100/evaluation/ground_truth/pdc2025_100100.xes"
+  },
+  {
+    "model": "pdc2025_100101",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_100101/evaluation/ground_truth/pdc2025_100101.xes"
+  },
+  {
+    "model": "pdc2025_100110",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_100110/evaluation/ground_truth/pdc2025_100110.xes"
+  },
+  {
+    "model": "pdc2025_100111",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_100111/evaluation/ground_truth/pdc2025_100111.xes"
+  },
+  {
+    "model": "pdc2025_101000",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_101000/evaluation/ground_truth/pdc2025_101000.xes"
+  },
+  {
+    "model": "pdc2025_101001",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_101001/evaluation/ground_truth/pdc2025_101001.xes"
+  },
+  {
+    "model": "pdc2025_101010",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_101010/evaluation/ground_truth/pdc2025_101010.xes"
+  },
+  {
+    "model": "pdc2025_101011",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_101011/evaluation/ground_truth/pdc2025_101011.xes"
+  },
+  {
+    "model": "pdc2025_101100",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_101100/evaluation/ground_truth/pdc2025_101100.xes"
+  },
+  {
+    "model": "pdc2025_101101",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_101101/evaluation/ground_truth/pdc2025_101101.xes"
+  },
+  {
+    "model": "pdc2025_101110",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_101110/evaluation/ground_truth/pdc2025_101110.xes"
+  },
+  {
+    "model": "pdc2025_101111",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_101111/evaluation/ground_truth/pdc2025_101111.xes"
+  },
+  {
+    "model": "pdc2025_110000",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_110000/evaluation/ground_truth/pdc2025_110000.xes"
+  },
+  {
+    "model": "pdc2025_110001",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_110001/evaluation/ground_truth/pdc2025_110001.xes"
+  },
+  {
+    "model": "pdc2025_110010",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_110010/evaluation/ground_truth/pdc2025_110010.xes"
+  },
+  {
+    "model": "pdc2025_110011",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_110011/evaluation/ground_truth/pdc2025_110011.xes"
+  },
+  {
+    "model": "pdc2025_110100",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_110100/evaluation/ground_truth/pdc2025_110100.xes"
+  },
+  {
+    "model": "pdc2025_110101",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_110101/evaluation/ground_truth/pdc2025_110101.xes"
+  },
+  {
+    "model": "pdc2025_110110",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_110110/evaluation/ground_truth/pdc2025_110110.xes"
+  },
+  {
+    "model": "pdc2025_110111",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_110111/evaluation/ground_truth/pdc2025_110111.xes"
+  },
+  {
+    "model": "pdc2025_111000",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_111000/evaluation/ground_truth/pdc2025_111000.xes"
+  },
+  {
+    "model": "pdc2025_111001",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_111001/evaluation/ground_truth/pdc2025_111001.xes"
+  },
+  {
+    "model": "pdc2025_111010",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_111010/evaluation/ground_truth/pdc2025_111010.xes"
+  },
+  {
+    "model": "pdc2025_111011",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_111011/evaluation/ground_truth/pdc2025_111011.xes"
+  },
+  {
+    "model": "pdc2025_111100",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_111100/evaluation/ground_truth/pdc2025_111100.xes"
+  },
+  {
+    "model": "pdc2025_111101",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_111101/evaluation/ground_truth/pdc2025_111101.xes"
+  },
+  {
+    "model": "pdc2025_111110",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_111110/evaluation/ground_truth/pdc2025_111110.xes"
+  },
+  {
+    "model": "pdc2025_111111",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_111111/evaluation/ground_truth/pdc2025_111111.xes"
+  },
+  {
+    "model": "pdc2025_120000",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_120000/evaluation/ground_truth/pdc2025_120000.xes"
+  },
+  {
+    "model": "pdc2025_120001",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_120001/evaluation/ground_truth/pdc2025_120001.xes"
+  },
+  {
+    "model": "pdc2025_120010",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_120010/evaluation/ground_truth/pdc2025_120010.xes"
+  },
+  {
+    "model": "pdc2025_120011",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_120011/evaluation/ground_truth/pdc2025_120011.xes"
+  },
+  {
+    "model": "pdc2025_120100",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_120100/evaluation/ground_truth/pdc2025_120100.xes"
+  },
+  {
+    "model": "pdc2025_120101",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_120101/evaluation/ground_truth/pdc2025_120101.xes"
+  },
+  {
+    "model": "pdc2025_120110",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_120110/evaluation/ground_truth/pdc2025_120110.xes"
+  },
+  {
+    "model": "pdc2025_120111",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_120111/evaluation/ground_truth/pdc2025_120111.xes"
+  },
+  {
+    "model": "pdc2025_121000",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_121000/evaluation/ground_truth/pdc2025_121000.xes"
+  },
+  {
+    "model": "pdc2025_121001",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_121001/evaluation/ground_truth/pdc2025_121001.xes"
+  },
+  {
+    "model": "pdc2025_121010",
+    "split": "test",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/test/pdc2025_121010/evaluation/ground_truth/pdc2025_121010.xes"
+  },
+  {
+    "model": "pdc2025_121011",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_121011/evaluation/ground_truth/pdc2025_121011.xes"
+  },
+  {
+    "model": "pdc2025_121100",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_121100/evaluation/ground_truth/pdc2025_121100.xes"
+  },
+  {
+    "model": "pdc2025_121101",
+    "split": "validation",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/validation/pdc2025_121101/evaluation/ground_truth/pdc2025_121101.xes"
+  },
+  {
+    "model": "pdc2025_121110",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_121110/evaluation/ground_truth/pdc2025_121110.xes"
+  },
+  {
+    "model": "pdc2025_121111",
+    "split": "training",
+    "role": "evaluation/ground_truth",
+    "path": "PDC2025/training/pdc2025_121111/evaluation/ground_truth/pdc2025_121111.xes"
+  }
+]
